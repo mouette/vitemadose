@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.767711+02:00",
-  "centres_disponibles": [
-    {
-      "departement": "51",
-      "nom": "Centre de vaccination Reims - Le Cellier",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/reims/centres-de-vaccination-grand-reims?pid=practice-164807&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-24T10:59:00.000+02:00"
-    }
-  ],
+  "last_updated": "2021-04-05T19:40:39.639351+02:00",
+  "centres_disponibles": [],
   "centres_indisponibles": [
     {
       "departement": "51",
@@ -92,6 +84,13 @@
       "departement": "51",
       "nom": "Centre de vaccination de Vitry-le-Fran\u00e7ois - Le Man\u00e8ge",
       "url": "https://partners.doctolib.fr/centre-de-sante/vitry-le-francois/centre-de-vaccination-covid-de-vitry-le-francois?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "51",
+      "nom": "Centre de vaccination Reims - Le Cellier",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/reims/centres-de-vaccination-grand-reims?pid=practice-164807&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

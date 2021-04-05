@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.767488+02:00",
+  "last_updated": "2021-04-05T19:40:39.639111+02:00",
   "centres_disponibles": [
     {
       "departement": "2B",
       "nom": "Centre Maison de sant\u00e9 L'\u00eele Rousse",
       "url": "https://partners.doctolib.fr/maison-de-sante/l'\u00eele-rousse/centre-de-vaccination-covid-l-ile-rousse?pid=practice-165353?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-06T15:20:00.000+02:00"
+      "prochain_rdv": "2021-04-06T15:10:00.000+02:00"
     },
     {
       "departement": "2B",
@@ -15,13 +15,6 @@
       "url": "https://partners.doctolib.fr/hopital-public/calvi/centre-de-vaccination-covid-19-ch-de-calvi?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": "2021-04-12T08:35:00.000+02:00"
-    },
-    {
-      "departement": "2B",
-      "nom": "Maison de sant\u00e9 Polygone Bastia",
-      "url": "https://partners.doctolib.fr/maison-de-sante/bastia/centre-de-vaccination-covid-maison-de-sante-bastia-erbajolu?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-14T18:35:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -71,6 +64,13 @@
       "departement": "2B",
       "nom": "CH Corte Tattone",
       "url": "https://partners.doctolib.fr/hopital-public/corte/centre-de-vaccination-covid-ch-corte?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "2B",
+      "nom": "Maison de sant\u00e9 Polygone Bastia",
+      "url": "https://partners.doctolib.fr/maison-de-sante/bastia/centre-de-vaccination-covid-maison-de-sante-bastia-erbajolu?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

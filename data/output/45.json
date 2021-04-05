@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.767644+02:00",
+  "last_updated": "2021-04-05T19:40:39.639285+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -40,15 +40,15 @@
     },
     {
       "departement": "45",
-      "nom": "Equipe mobile - CD 45",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/loiret/centre-de-vaccination-covid-19-centre-mobile-du-loiret?pid=practice-171026&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - Ch\u00e2teauneuf-sur-Loire - Espace Florian",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chateauneuf-sur-loire/centre-de-vaccination-chateauneuf-sur-loire?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "45",
-      "nom": "Centre de vaccination - Ch\u00e2teauneuf-sur-Loire - Espace Florian",
-      "url": "https://partners.doctolib.fr/centre-de-sante/chateauneuf-sur-loire/centre-de-vaccination-chateauneuf-sur-loire?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Equipe mobile - CD 45",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/loiret/centre-de-vaccination-covid-19-centre-mobile-du-loiret?pid=practice-171026&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -61,15 +61,15 @@
     },
     {
       "departement": "45",
-      "nom": "Salle Carnot \u00e0 Montargis",
-      "url": "https://partners.doctolib.fr/centre-de-sante/montargis/centre-de-vaccination-prefecture-du-loiret?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Salle Fernand Pellicer - Orl\u00e9ans La Source",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/orleans/centre-de-vaccination-covid-fernand-pellicer-d-orleans?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "45",
-      "nom": "Salle Fernand Pellicer - Orl\u00e9ans La Source",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/orleans/centre-de-vaccination-covid-fernand-pellicer-d-orleans?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Salle Carnot \u00e0 Montargis",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montargis/centre-de-vaccination-prefecture-du-loiret?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

@@ -1,13 +1,34 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.767635+02:00",
+  "last_updated": "2021-04-05T19:40:39.639276+02:00",
   "centres_disponibles": [
+    {
+      "departement": "44",
+      "nom": "Centre de vaccination - MACHECOUL - Salle Vall\u00e9e du Tenu",
+      "url": "https://www.doctolib.fr/centre-de-sante/saint-meme-le-tenu/centre-de-vaccination-covid-machecoul-st-meme",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-12T16:30:00.000+02:00"
+    },
     {
       "departement": "44",
       "nom": "Centre de Vaccination COVID - NANTES Nord - Salle Erdre",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nantes/centre-de-vaccination-metroplitain-salle-festive-nantes-erdre?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-27T19:10:00.000+02:00"
+      "prochain_rdv": "2021-04-27T19:06:00.000+02:00"
+    },
+    {
+      "departement": "44",
+      "nom": "Grand centre NANTES (en cours de d\u00e9claration) ",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nantes/centre-de-vaccination-covid-19-centre-d-exposition-de-la-beaujoire?pid=practice-164268&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-28T12:30:00.000+02:00"
+    },
+    {
+      "departement": "44",
+      "nom": "Centre de vaccination - VERTOU - Salle S\u00e8vre et Maine",
+      "url": "https://www.doctolib.fr/centre-de-sante/vertou/centre-de-vaccination-covid-19-mairie-de-vertou",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-05-14T15:50:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -23,13 +44,6 @@
       "nom": "Centre de Vaccination - LA BAULE - Espace Jean Gaillardon",
       "url": "https://partners.doctolib.fr/centre-de-sante/la-baule-escoublac/cap-atlantique-la-baule-escoublac?pid=practice-164467&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "44",
-      "nom": "Grand centre NANTES (en cours de d\u00e9claration) ",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nantes/centre-de-vaccination-covid-19-centre-d-exposition-de-la-beaujoire?pid=practice-164268&enable_cookies_consent=1",
-      "plateforme": null,
       "prochain_rdv": null
     },
     {
@@ -51,13 +65,6 @@
       "nom": "CP - US Centre de d\u00e9tention et SMPR niv.1 Centre de D\u00e9tention / Etablissement Sp\u00e9cialis\u00e9 pour mineurs d'Orvault",
       "url": "",
       "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "44",
-      "nom": "Centre de vaccination - VERTOU - Salle S\u00e8vre et Maine",
-      "url": "https://www.doctolib.fr/centre-de-sante/vertou/centre-de-vaccination-covid-19-mairie-de-vertou",
-      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
@@ -134,13 +141,6 @@
       "departement": "44",
       "nom": "Centre de vaccination - PORNIC - Salle Polyvalente B\u00e9ziers",
       "url": "https://partners.doctolib.fr/centre-de-sante/pornic/centre-de-vaccination-ville-de-pornic?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "44",
-      "nom": "Centre de vaccination - MACHECOUL - Salle Vall\u00e9e du Tenu",
-      "url": "https://www.doctolib.fr/centre-de-sante/saint-meme-le-tenu/centre-de-vaccination-covid-machecoul-st-meme",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     }

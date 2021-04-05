@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.767738+02:00",
+  "last_updated": "2021-04-05T19:40:39.639378+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -40,15 +40,15 @@
     },
     {
       "departement": "54",
-      "nom": "Site de vaccination du Saintois",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-167649&enable_cookies_consent=1",
+      "nom": "Site de vaccination Moselle et Madon - Centre culturel Jean l'H\u00f4te",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-167641&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "54",
-      "nom": "Site de vaccination Moselle et Madon - Centre culturel Jean l'H\u00f4te",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-167641&enable_cookies_consent=1",
+      "nom": "Site de vaccination du Saintois",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-167649&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -68,15 +68,15 @@
     },
     {
       "departement": "54",
-      "nom": "Jarville - Espace communal Foch",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?speciality_id=5494&pid=practice-163351&enable_cookies_consent=1",
+      "nom": "Nancy - H\u00f4pital Central",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-162190&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "54",
-      "nom": "Nancy - H\u00f4pital Central",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-162190&enable_cookies_consent=1",
+      "nom": "Jarville - Espace communal Foch",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?speciality_id=5494&pid=practice-163351&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -166,15 +166,15 @@
     },
     {
       "departement": "54",
-      "nom": "CHI de Pompey",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163828&enable_cookies_consent=1",
+      "nom": "CH de Pont-\u00e0-Mousson",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163827&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "54",
-      "nom": "CH de Pont-\u00e0-Mousson",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163827&enable_cookies_consent=1",
+      "nom": "CHI de Pompey",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163828&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -222,15 +222,15 @@
     },
     {
       "departement": "54",
-      "nom": "Centre de vaccination de LONGWY",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-167650&enable_cookies_consent=1",
+      "nom": "CH de Toul",
+      "url": "https://partners.doctolib.fr/hopital-public/toul/centre-de-vaccination-de-toul?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "54",
-      "nom": "CH de Toul",
-      "url": "https://partners.doctolib.fr/hopital-public/toul/centre-de-vaccination-de-toul?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination de LONGWY",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-167650&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     }

@@ -1,13 +1,20 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.767765+02:00",
+  "last_updated": "2021-04-05T19:40:39.639404+02:00",
   "centres_disponibles": [
+    {
+      "departement": "57",
+      "nom": "Centre de vaccination d'Hettange-Grande - Hall omnisport",
+      "url": "https://partners.doctolib.fr/centre-de-sante/hettange-grande/centre-de-vaccination-d-hettange-grande?pid=practice-177585&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-09T09:35:00.000+02:00"
+    },
     {
       "departement": "57",
       "nom": "Centre de vaccination de Thionville - Clinique Notre-Dame",
       "url": "https://partners.doctolib.fr/clinique-privee/thionville/centre-de-vaccination-thionville-elsan?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-22T08:52:00.000+02:00"
+      "prochain_rdv": "2021-04-22T10:24:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -134,13 +141,6 @@
       "departement": "57",
       "nom": "Centre de vaccination de Courcelles-Chaussy",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/courcelles-chaussy/centre-de-vaccination-covid-19-courcelles-chaussy?pid=practice-176912&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "57",
-      "nom": "Centre de vaccination d'Hettange-Grande - Hall omnisport",
-      "url": "https://partners.doctolib.fr/centre-de-sante/hettange-grande/centre-de-vaccination-d-hettange-grande?pid=practice-177585&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

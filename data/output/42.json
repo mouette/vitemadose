@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.767608+02:00",
+  "last_updated": "2021-04-05T19:40:39.639227+02:00",
   "centres_disponibles": [
     {
       "departement": "42",
@@ -14,21 +14,14 @@
       "nom": "Centre hospitalier de Feurs - Maison des Sapins",
       "url": "https://partners.doctolib.fr/centre-de-sante/feurs/centre-de-vaccination-covid-ch-du-forez-site-de-feurs?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-12T10:20:00.000+02:00"
-    },
-    {
-      "departement": "42",
-      "nom": "Centre de vaccination au  CHU DE SAINT-ETIENNE - H\u00f4pital Nord - Salle de Conf\u00e9rence - Hall AB",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/saint-priest-en-jarez/centre-de-vaccination-covid-19-chu-saint-etienne?pid=practice-168936&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-09T16:20:00.000+02:00"
+      "prochain_rdv": "2021-04-12T10:10:00.000+02:00"
     },
     {
       "departement": "42",
       "nom": "Centre de vaccination - Centre de soins non programm\u00e9s - Ville d'Andr\u00e9zieux-Bouth\u00e9on",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/andrezieux-boutheon/centre-de-vaccination-covid-19-andrezieux-boutheon?pid=practice-165752&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-13T12:35:00.000+02:00"
+      "prochain_rdv": "2021-05-02T12:10:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -69,7 +62,21 @@
     },
     {
       "departement": "42",
+      "nom": "Centre de vaccination au  CHU DE SAINT-ETIENNE - H\u00f4pital Nord - Salle de Conf\u00e9rence - Hall AB",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/saint-priest-en-jarez/centre-de-vaccination-covid-19-chu-saint-etienne?pid=practice-168936&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "42",
       "nom": "antenne MSP Charlieu ",
+      "url": "",
+      "plateforme": "Autre",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "42",
+      "nom": "CD - US centre de d\u00e9tention de roanne / Centre de d\u00e9tention de Roanne",
       "url": "",
       "plateforme": "Autre",
       "prochain_rdv": null
@@ -83,7 +90,7 @@
     },
     {
       "departement": "42",
-      "nom": "CD - US centre de d\u00e9tention de roanne / Centre de d\u00e9tention de Roanne",
+      "nom": "MA - USN 1Maison d'Arr\u00eat de la Talaudi\u00e8re / Maison d'Arr\u00eat de Saint-Etienne-la-Talaudi\u00e8re",
       "url": "",
       "plateforme": "Autre",
       "prochain_rdv": null
@@ -93,13 +100,6 @@
       "nom": "antenne MSP St Just en Chevalet ",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-just-en-chevalet/centre-de-vaccination-covid-19-maison-de-sante-du-pays-d-urfe?pid=practice-175972&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "42",
-      "nom": "MA - USN 1Maison d'Arr\u00eat de la Talaudi\u00e8re / Maison d'Arr\u00eat de Saint-Etienne-la-Talaudi\u00e8re",
-      "url": "",
-      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.768262+02:00",
+  "last_updated": "2021-04-05T19:40:39.639744+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -131,6 +131,13 @@
     },
     {
       "departement": "93",
+      "nom": "Centre de vaccination - Centre municipal de sant\u00e9",
+      "url": "https://www.maiia.com/centre-de-vaccination/93230-romainville/centre-de-vaccination--louise-michel",
+      "plateforme": "Maiia",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "93",
       "nom": "Centre de vaccination - B\u00e2timent Charlotte Petit",
       "url": "https://partners.doctolib.fr/centre-de-sante/clichy-sous-bois/centre-municipal-de-vaccination-covid-charlotte-petit?pid=practice-165986&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -145,13 +152,6 @@
     },
     {
       "departement": "93",
-      "nom": "Centre de vaccination - Centre municipal de sant\u00e9",
-      "url": "https://www.maiia.com/centre-de-vaccination/93230-romainville/centre-de-vaccination--louise-michel",
-      "plateforme": "Maiia",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "93",
       "nom": "EMV Jean Verdier",
       "url": "",
       "plateforme": "Autre",
@@ -162,13 +162,6 @@
       "nom": "EMV Romainville",
       "url": "",
       "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "93",
-      "nom": "Centre de vaccination - Gymnase Guimier",
-      "url": "https://partners.doctolib.fr/centre-de-sante/tremblay-en-france/gymnase-jean-guimier-centre-de-vaccination-covid-19?pid=practice-175982&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
@@ -190,6 +183,13 @@
       "nom": "EMV Ballanger",
       "url": "",
       "plateforme": "Autre",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "93",
+      "nom": "Centre de vaccination - Gymnase Guimier",
+      "url": "https://partners.doctolib.fr/centre-de-sante/tremblay-en-france/gymnase-jean-guimier-centre-de-vaccination-covid-19?pid=practice-175982&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
@@ -271,15 +271,15 @@
     },
     {
       "departement": "93",
-      "nom": "CH SAINT-DENIS",
-      "url": "https://partners.doctolib.fr/hopital-public/saint-denis/centre-hospitalier-de-saint-denis-vaccination-covid19?pid=practice-164541&enable_cookies_consent=1",
+      "nom": "Annexe du coll\u00e8ge international ",
+      "url": "https://partners.doctolib.fr/centre-de-sante/noisy-le-grand/centre-de-vaccination-covid-espace-partage-du-college-international?highlight%5Bagenda_ids%5D%5B%5D=409542&highlight%5Bagenda_ids%5D%5B%5D=409543?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "93",
-      "nom": "Annexe du coll\u00e8ge international ",
-      "url": "https://partners.doctolib.fr/centre-de-sante/noisy-le-grand/centre-de-vaccination-covid-espace-partage-du-college-international?highlight%5Bagenda_ids%5D%5B%5D=409542&highlight%5Bagenda_ids%5D%5B%5D=409543?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "CH SAINT-DENIS",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-denis/centre-hospitalier-de-saint-denis-vaccination-covid19?pid=practice-164541&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

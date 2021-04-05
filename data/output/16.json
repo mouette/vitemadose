@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.767351+02:00",
+  "last_updated": "2021-04-05T19:40:39.638982+02:00",
   "centres_disponibles": [
     {
       "departement": "16",
@@ -14,21 +14,14 @@
       "nom": "Centre de vaccination de Dignac",
       "url": "https://partners.doctolib.fr/centre-de-sante/dignac/centre-de-vaccination-covid-msp-de-la-cle-d-or?pid=practice-164788&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-21T10:25:00.000+02:00"
+      "prochain_rdv": "2021-04-21T10:45:00.000+02:00"
     },
     {
       "departement": "16",
       "nom": "Centre de vaccination Terres de Haute Charente",
       "url": "https://partners.doctolib.fr/centre-de-sante/terres-de-haute-charente/centre-de-vaccination-covid-19-terres-de-haute-charente?pid=practice-165251&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-23T18:25:00.000+02:00"
-    },
-    {
-      "departement": "16",
-      "nom": "CH RUFFEC",
-      "url": "https://partners.doctolib.fr/hopital-public/ruffec/centre-de-vaccination-covid-19-ch-de-ruffec?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-03T13:35:00.000+02:00"
+      "prochain_rdv": "2021-04-24T14:25:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -92,6 +85,13 @@
       "departement": "16",
       "nom": "Centre de vaccination Portes du P\u00e9rigord (La Rochefoucauld/Montbron/Chazelles)",
       "url": "https://partners.doctolib.fr/maison-de-sante/la-rochefoucauld-en-angoumois/centre-vaccination-covid-19-maison-de-sante-val-de-tardoire?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "16",
+      "nom": "CH RUFFEC",
+      "url": "https://partners.doctolib.fr/hopital-public/ruffec/centre-de-vaccination-covid-19-ch-de-ruffec?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

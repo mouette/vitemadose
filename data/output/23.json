@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.767414+02:00",
+  "last_updated": "2021-04-05T19:40:39.639040+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -12,15 +12,15 @@
     },
     {
       "departement": "23",
-      "nom": "CMN ST-FEYRE",
-      "url": "https://partners.doctolib.fr/centre-de-sante/sainte-feyre/centre-de-vaccination-covid-19-ehpad-sainte-feyre-mgen?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "CH BOURGANEUF",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?speciality_id=5494&pid=practice-163731&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "23",
-      "nom": "CH BOURGANEUF",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?speciality_id=5494&pid=practice-163731&enable_cookies_consent=1",
+      "nom": "CMN ST-FEYRE",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sainte-feyre/centre-de-vaccination-covid-19-ehpad-sainte-feyre-mgen?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

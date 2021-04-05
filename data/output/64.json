@@ -1,27 +1,34 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.767828+02:00",
+  "last_updated": "2021-04-05T19:40:39.639466+02:00",
   "centres_disponibles": [
     {
       "departement": "64",
       "nom": "Centre de vaccination de Biarritz - Casino Municipal",
       "url": "https://partners.doctolib.fr/centre-de-sante/biarritz/centres-de-vaccination-de-la-ville-de-biarritz?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-09T15:20:00.000+02:00"
+      "prochain_rdv": "2021-04-09T15:00:00.000+02:00"
     },
     {
       "departement": "64",
       "nom": "Centre de Vaccination de la Ville de Pau",
       "url": "https://partners.doctolib.fr/centre-de-sante/pau/centre-de-vaccination-covid-de-pau?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-12T16:50:00.000+02:00"
+      "prochain_rdv": "2021-04-12T17:05:00.000+02:00"
     },
     {
       "departement": "64",
       "nom": "Maison des associations de la ville de Bayonne",
       "url": "https://partners.doctolib.fr/centre-de-sante/bayonne/centre-de-vaccination-covid-maison-des-associations-de-la-ville-de-bayonne?pid=practice-165183?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-13T08:25:00.000+02:00"
+      "prochain_rdv": "2021-04-13T08:05:00.000+02:00"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de Vaccination - Ville d'Anglet",
+      "url": "https://partners.doctolib.fr/centre-de-sante/anglet/centre-de-vaccination-covid-d-anglet?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-16T13:10:00.000+02:00"
     },
     {
       "departement": "64",
@@ -76,16 +83,16 @@
     },
     {
       "departement": "64",
-      "nom": "Centre de sant\u00e9 des Luys-Arzacq",
-      "url": "https://www.maiia.com/centre-de-vaccination/64410-arzacq-arraziguet/centre-de-vaccination-des-luys",
-      "plateforme": "Maiia",
+      "nom": "Centre de vaccination d'Hasparren",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
       "departement": "64",
-      "nom": "Centre de vaccination d'Hasparren",
-      "url": "",
-      "plateforme": "Autre",
+      "nom": "Centre de sant\u00e9 des Luys-Arzacq",
+      "url": "https://www.maiia.com/centre-de-vaccination/64410-arzacq-arraziguet/centre-de-vaccination-des-luys",
+      "plateforme": "Maiia",
       "prochain_rdv": null
     },
     {
@@ -169,13 +176,6 @@
       "departement": "64",
       "nom": "CH BAYONNE",
       "url": "https://partners.doctolib.fr/hopital-public/bayonne/centre-de-vaccination-covid-19-ch-cote-basque?pid=practice-61501&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "64",
-      "nom": "Centre de Vaccination - Ville d'Anglet",
-      "url": "https://partners.doctolib.fr/centre-de-sante/anglet/centre-de-vaccination-covid-d-anglet?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

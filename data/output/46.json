@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.767653+02:00",
+  "last_updated": "2021-04-05T19:40:39.639294+02:00",
   "centres_disponibles": [
+    {
+      "departement": "46",
+      "nom": "CH Figeac",
+      "url": "https://partners.doctolib.fr/hopital-public/figeac/centre-hospitalier-de-figeac-reserve-aux-professionnels-de-sante?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-09T15:30:00.000+02:00"
+    },
     {
       "departement": "46",
       "nom": "Centre de vaccination - CH Saint C\u00e9r\u00e9",
@@ -11,17 +18,10 @@
     },
     {
       "departement": "46",
-      "nom": "Centre de vaccination - Gramat",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/gramat/vaccination-covid-19-msp-gramat?pid=practice-172566&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - Cahors ville (Espace Cl\u00e9ment-Marot)",
+      "url": "https://partners.doctolib.fr/centre-de-sante/cahors/centre-de-vaccination-covid-19-ville-de-cahors?pid=practice-173078&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-23T14:40:00.000+02:00"
-    },
-    {
-      "departement": "46",
-      "nom": "CH Figeac",
-      "url": "https://partners.doctolib.fr/hopital-public/figeac/centre-hospitalier-de-figeac-reserve-aux-professionnels-de-sante?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-28T16:55:00.000+02:00"
+      "prochain_rdv": "2021-04-24T17:42:00.000+02:00"
     },
     {
       "departement": "46",
@@ -32,6 +32,13 @@
     }
   ],
   "centres_indisponibles": [
+    {
+      "departement": "46",
+      "nom": "Centre de vaccination - Gramat",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/gramat/vaccination-covid-19-msp-gramat?pid=practice-172566&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
     {
       "departement": "46",
       "nom": "MSP Souillac",
@@ -62,20 +69,6 @@
     },
     {
       "departement": "46",
-      "nom": "Centre de vaccination - Cahors ville (Espace Cl\u00e9ment-Marot)",
-      "url": "https://partners.doctolib.fr/centre-de-sante/cahors/centre-de-vaccination-covid-19-ville-de-cahors?pid=practice-173078&enable_cookies_consent=1",
-      "plateforme": null,
-      "prochain_rdv": null
-    },
-    {
-      "departement": "46",
-      "nom": "MSP CATUS",
-      "url": "https://partners.doctolib.fr/centre-de-sante/catus/centre-de-vaccination-covid-msp-catus?pid=practice-179532&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "46",
       "nom": "MSP Lalbenque",
       "url": "",
       "plateforme": "Autre",
@@ -86,6 +79,13 @@
       "nom": "Cressesac",
       "url": "",
       "plateforme": "Autre",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "46",
+      "nom": "MSP CATUS",
+      "url": "https://partners.doctolib.fr/centre-de-sante/catus/centre-de-vaccination-covid-msp-catus?pid=practice-179532&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {

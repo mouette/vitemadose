@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.768324+02:00",
+  "last_updated": "2021-04-05T19:40:39.639802+02:00",
   "centres_disponibles": [
     {
       "departement": "974",
@@ -127,7 +127,7 @@
       "departement": "974",
       "nom": "Centre de vaccination COVID 19 : site des Makes",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/saint-louis-97134/centre-de-vaccination-ephemere-mairie-annexe-des-makes",
-      "plateforme": null,
+      "plateforme": "Keldoc",
       "prochain_rdv": null
     },
     {

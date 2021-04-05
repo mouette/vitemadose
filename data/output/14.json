@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.767332+02:00",
+  "last_updated": "2021-04-05T19:40:39.638964+02:00",
   "centres_disponibles": [
     {
       "departement": "14",
@@ -21,7 +21,7 @@
       "nom": "Clinique Vire",
       "url": "https://partners.doctolib.fr/centre-de-sante/normandie/centre-de-vaccination-clinique-vire?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-13T17:10:00.000+02:00"
+      "prochain_rdv": "2021-04-13T17:15:00.000+02:00"
     },
     {
       "departement": "14",
@@ -62,14 +62,14 @@
     },
     {
       "departement": "14",
-      "nom": "CP - US de Caen / Maison d'Arr\u00eat de Caen",
+      "nom": "MA - US de la maison d'arr\u00eat de Caen / Maison d'Arr\u00eat de Caen",
       "url": "",
       "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
       "departement": "14",
-      "nom": "MA - US de la maison d'arr\u00eat de Caen / Maison d'Arr\u00eat de Caen",
+      "nom": "CP - US de Caen / Maison d'Arr\u00eat de Caen",
       "url": "",
       "plateforme": "Autre",
       "prochain_rdv": null
@@ -97,15 +97,15 @@
     },
     {
       "departement": "14",
-      "nom": "CH de Lisieux",
-      "url": "https://partners.doctolib.fr/hopital-public/lisieux/centre-de-vaccination-covid-19-ch-de-lisieux?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "CHP Saint Martin ",
+      "url": "https://partners.doctolib.fr/centre-de-sante/caen/hpsmvc-reserve-aux-professionnels-de-sante?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "14",
-      "nom": "CHP Saint Martin ",
-      "url": "https://partners.doctolib.fr/centre-de-sante/caen/hpsmvc-reserve-aux-professionnels-de-sante?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "CH de Lisieux",
+      "url": "https://partners.doctolib.fr/hopital-public/lisieux/centre-de-vaccination-covid-19-ch-de-lisieux?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

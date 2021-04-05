@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.767470+02:00",
+  "last_updated": "2021-04-05T19:40:39.639094+02:00",
   "centres_disponibles": [
     {
       "departement": "29",
@@ -15,13 +15,6 @@
       "url": "https://www.maiia.com/centre-de-vaccination/29800-landerneau/centre-de-vaccination---landerneau---lesneven",
       "plateforme": "Maiia",
       "prochain_rdv": "2021-04-14T09:05:00.000000Z"
-    },
-    {
-      "departement": "29",
-      "nom": "CH MORLAIX (anciens locaux EFS)",
-      "url": "https://partners.doctolib.fr/hopital-public/morlaix/ch-morlaix-centre-de-vaccination-covid-19-reserve-aux-professionnels-de-sante?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-14T17:30:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -69,6 +62,13 @@
     },
     {
       "departement": "29",
+      "nom": "CH MORLAIX (anciens locaux EFS)",
+      "url": "https://partners.doctolib.fr/hopital-public/morlaix/ch-morlaix-centre-de-vaccination-covid-19-reserve-aux-professionnels-de-sante?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "29",
       "nom": "DOUARNENEZ - Centre Gradlon",
       "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/douarnenez-29100/gradlon/centre-de-vaccination-de-gradlon",
       "plateforme": "Keldoc",
@@ -104,13 +104,6 @@
     },
     {
       "departement": "29",
-      "nom": "CARHAIX - GLEN MOR",
-      "url": "https://partners.doctolib.fr/centre-de-sante/carhaix-plouguer/centre-de-vaccination-covid-19-carhaix-espace-glenmor?pid=practice-177080&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "29",
       "nom": "QUIMPER - Maison des associations",
       "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/quimper-29000/quimper/centre-de-vaccination-de-quimper",
       "plateforme": "Keldoc",
@@ -118,9 +111,9 @@
     },
     {
       "departement": "29",
-      "nom": "GHBS site QUIMPERLE H\u00f4pital de Villeneuve (r\u00e9serv\u00e9 aux professionnels des secteurs de la sant\u00e9 et du m\u00e9dico-social)",
-      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-regional/lorient-56100/groupe-hospitalier-bretagne-sud-lorient-hopital-du-scorff?cabinet=16579&specialty=144",
-      "plateforme": "Keldoc",
+      "nom": "CARHAIX - GLEN MOR",
+      "url": "https://partners.doctolib.fr/centre-de-sante/carhaix-plouguer/centre-de-vaccination-covid-19-carhaix-espace-glenmor?pid=practice-177080&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
@@ -128,6 +121,13 @@
       "nom": "PONT L'ABBE - Le triskell",
       "url": "https://partners.doctolib.fr/centre-de-sante/pont-l-abbe/centre-de-vaccination-covid-19-bigouden?pid=practice-167193&enable_cookies_consent=1",
       "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "29",
+      "nom": "GHBS site QUIMPERLE H\u00f4pital de Villeneuve (r\u00e9serv\u00e9 aux professionnels des secteurs de la sant\u00e9 et du m\u00e9dico-social)",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-regional/lorient-56100/groupe-hospitalier-bretagne-sud-lorient-hopital-du-scorff?cabinet=16579&specialty=144",
+      "plateforme": "Keldoc",
       "prochain_rdv": null
     },
     {

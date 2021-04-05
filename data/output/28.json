@@ -1,14 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.767461+02:00",
+  "last_updated": "2021-04-05T19:40:39.639085+02:00",
   "centres_disponibles": [
-    {
-      "departement": "28",
-      "nom": "Centre de vaccination - r\u00e9serv\u00e9 professionnels de sant\u00e9 et assimil\u00e9s\" - CH Chartres",
-      "url": "https://partners.doctolib.fr/hopital-public/le-coudray/centre-hospitalier-chartres-le-coudray?pid=practice-162668&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-14T12:50:00.000+02:00"
-    },
     {
       "departement": "28",
       "nom": "Centre de vaccination \"grand public\" CHARTREXPO \u2013 Chartres",
@@ -23,6 +16,13 @@
       "nom": "Centre de vaccination du Bonnevalais",
       "url": "",
       "plateforme": "Autre",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "28",
+      "nom": "Centre de vaccination - r\u00e9serv\u00e9 professionnels de sant\u00e9 et assimil\u00e9s\" - CH Chartres",
+      "url": "https://partners.doctolib.fr/hopital-public/le-coudray/centre-hospitalier-chartres-le-coudray?pid=practice-162668&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {

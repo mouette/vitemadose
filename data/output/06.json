@@ -1,14 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.767257+02:00",
+  "last_updated": "2021-04-05T19:40:39.638890+02:00",
   "centres_disponibles": [
-    {
-      "departement": "06",
-      "nom": "MSP de Saint Vallier de Thiey",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nice/covid-19-saint-vallier-de-thiey?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-06T14:50:00.000+02:00"
-    },
     {
       "departement": "06",
       "nom": "Hopital de Breil / MSP de la Roya",
@@ -21,7 +14,7 @@
       "nom": "Centre de vaccination de la ville de Nice",
       "url": "https://partners.doctolib.fr/centre-de-sante/nice/centre-de-vaccination-covid-hancy-reserve-aux-professionnels-de-sante?pid=practice-172330&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-28T09:25:00.000+02:00"
+      "prochain_rdv": "2021-04-28T10:50:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -209,8 +202,8 @@
     },
     {
       "departement": "06",
-      "nom": "Centre Menton Plus Sablettes",
-      "url": "https://partners.doctolib.fr/maison-de-sante/menton/centre-de-vaccination-covid-menton-carf?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "MSP de Saint Vallier de Thiey",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nice/covid-19-saint-vallier-de-thiey?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -230,8 +223,8 @@
     },
     {
       "departement": "06",
-      "nom": "Centre de vaccination Palais des Congr\u00e8s de Grasse",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/grasse/centre-de-vaccination-du-palais-des-congres-de-grasse?pid=practice-166304&enable_cookies_consent=1",
+      "nom": "Centre Menton Plus Sablettes",
+      "url": "https://partners.doctolib.fr/maison-de-sante/menton/centre-de-vaccination-covid-menton-carf?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -239,6 +232,13 @@
       "departement": "06",
       "nom": "Centre de vaccination de Vence - Gymnase Dandreis Vence",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nice/covid-19-vence?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "06",
+      "nom": "Centre de vaccination Palais des Congr\u00e8s de Grasse",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/grasse/centre-de-vaccination-du-palais-des-congres-de-grasse?pid=practice-166304&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

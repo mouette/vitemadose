@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.767918+02:00",
+  "last_updated": "2021-04-05T19:40:39.639550+02:00",
   "centres_disponibles": [
     {
       "departement": "73",
       "nom": "Centre de vaccination COVID - Bourg Saint Maurice",
       "url": "https://partners.doctolib.fr/centre-de-sante/bourg-saint-maurice/centre-de-vaccination-bourg-saint-maurice?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-08T15:10:00.000+02:00"
+      "prochain_rdv": "2021-04-08T15:25:00.000+02:00"
     },
     {
       "departement": "73",
@@ -21,14 +21,14 @@
       "nom": "Centre de vaccination COVID d'Albertville - Maison m\u00e9dicale d'Albertville",
       "url": "https://partners.doctolib.fr/centre-de-sante/albertville/centre-de-vaccination-covid-maison-de-sante-d-albertville?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-13T16:20:00.000+02:00"
+      "prochain_rdv": "2021-04-14T14:10:00.000+02:00"
     },
     {
       "departement": "73",
       "nom": "Centre de vaccination COVID Ad Hoc de Lescheraines",
       "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-29T11:30:00.000+02:00"
+      "prochain_rdv": "2021-04-29T15:10:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -146,15 +146,15 @@
     },
     {
       "departement": "73",
-      "nom": "Centre de vaccination COVID Ad Hoc de Saint Alban Leysse",
-      "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?pid=practice-178866&enable_cookies_consent=1",
+      "nom": "Centre de vaccination COVID Ad Hoc de COGNIN",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?pid=practice-178865&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "73",
-      "nom": "Centre de vaccination COVID Ad Hoc de COGNIN",
-      "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?pid=practice-178865&enable_cookies_consent=1",
+      "nom": "Centre de vaccination COVID Ad Hoc de Saint Alban Leysse",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?pid=practice-178866&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

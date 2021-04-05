@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.768271+02:00",
+  "last_updated": "2021-04-05T19:40:39.639753+02:00",
   "centres_disponibles": [
     {
       "departement": "94",
@@ -8,6 +8,13 @@
       "url": "https://www.maiia.com/centre-de-vaccination/94380-bonneuil-sur-marne/-centre-de-vaccination---espace-louise-voelckel",
       "plateforme": "Maiia",
       "prochain_rdv": "2021-04-06T09:15:00.000000Z"
+    },
+    {
+      "departement": "94",
+      "nom": "Centre de Vaccination Marie-Th\u00e9r\u00e8se EYQUEM Cr\u00e9teil",
+      "url": "https://partners.doctolib.fr/centre-de-sante/creteil/centre-de-vaccination-covid-ville-de-creteil?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-06T11:30:00.000+02:00"
     },
     {
       "departement": "94",
@@ -21,7 +28,7 @@
       "nom": "CENTRE DE VACCINATION AMBULATOIRE ALFORTVILLE",
       "url": "https://partners.doctolib.fr/centre-de-sante/alfortville/centre-de-vaccination-ambulatoire-d-alfortville-reserve-aux-professionnels-de-sante?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-07T16:30:00.000+02:00"
+      "prochain_rdv": "2021-05-06T10:15:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -181,8 +188,8 @@
     },
     {
       "departement": "94",
-      "nom": "Centre de Vaccination Marie-Th\u00e9r\u00e8se EYQUEM Cr\u00e9teil",
-      "url": "https://partners.doctolib.fr/centre-de-sante/creteil/centre-de-vaccination-covid-ville-de-creteil?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre d'ORLY",
+      "url": "https://partners.doctolib.fr/centre-de-sante/orly/centre-vaccination-covid-cms-orly?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -190,13 +197,6 @@
       "departement": "94",
       "nom": "CENTRE SAINT MAUR DES FOSSES",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-maur-des-foss\u00e9s/centre-de-vaccination-de-saint-maur-des-fosses?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "94",
-      "nom": "Centre d'ORLY",
-      "url": "https://partners.doctolib.fr/centre-de-sante/orly/centre-vaccination-covid-cms-orly?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

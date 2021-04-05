@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.768117+02:00",
+  "last_updated": "2021-04-05T19:40:39.639618+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -19,15 +19,22 @@
     },
     {
       "departement": "80",
-      "nom": "Centre de vaccination - MSP Cr\u00e9cy en Ponthieu",
-      "url": "https://vaccination-covid.keldoc.com/maison-de-sante/crecy-en-ponthieu-80150/msp-de-crecy-en-ponthieu/centre-de-vaccination-de-la-msp-de-crecy-en-ponthieu",
+      "nom": "Centre de vaccination - CH Abbeville, Mairie Abbeville ",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/abbeville-80001/centre-hospitalier-abbeville-salle-des-fetes/centre-de-vaccination-du-centre-hospitalier-abbeville-salle-des-fetes",
       "plateforme": "Keldoc",
       "prochain_rdv": null
     },
     {
       "departement": "80",
-      "nom": "Centre de vaccination - CH Abbeville, Mairie Abbeville ",
-      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/abbeville-80001/centre-hospitalier-abbeville-salle-des-fetes/centre-de-vaccination-du-centre-hospitalier-abbeville-salle-des-fetes",
+      "nom": "Centre de vaccination - CHIMR EHPAD Lucien Vivien",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/montdidier-80500/centre-hospitalier-montdidier-roye-ehpad-lucien-vivien/centre-de-vaccination-du-centre-hospitalier-montdidier-roye-ehpad-lucien-vivien",
+      "plateforme": "Keldoc",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination - MSP Cr\u00e9cy en Ponthieu",
+      "url": "https://vaccination-covid.keldoc.com/maison-de-sante/crecy-en-ponthieu-80150/msp-de-crecy-en-ponthieu/centre-de-vaccination-de-la-msp-de-crecy-en-ponthieu",
       "plateforme": "Keldoc",
       "prochain_rdv": null
     },
@@ -36,13 +43,6 @@
       "nom": "MA - USDSS / Maison d'Arr\u00eat d'Amiens",
       "url": "",
       "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "80",
-      "nom": "Centre de vaccination - CHIMR EHPAD Lucien Vivien",
-      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/montdidier-80500/centre-hospitalier-montdidier-roye-ehpad-lucien-vivien/centre-de-vaccination-du-centre-hospitalier-montdidier-roye-ehpad-lucien-vivien",
-      "plateforme": "Keldoc",
       "prochain_rdv": null
     },
     {
@@ -82,15 +82,15 @@
     },
     {
       "departement": "80",
-      "nom": "Centre de vaccination - Ville de Poix-de-Picardie, SALLE DES F\u00caTES\u00a0",
-      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/poix-de-picardie-80290/poix-de-picardie/centre-de-vaccination-de-poix-de-picardie",
+      "nom": "Centre de Vaccination - Ville de Saint-Val\u00e9ry-Sur-Somme, Entrep\u00f4t des sel",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-valery-sur-somme-80230/st-valery-sur-somme/centre-de-vaccination-du-st-valery-sur-somme",
       "plateforme": "Keldoc",
       "prochain_rdv": null
     },
     {
       "departement": "80",
-      "nom": "Centre de Vaccination - Ville de Saint-Val\u00e9ry-Sur-Somme, Entrep\u00f4t des sel",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-valery-sur-somme-80230/st-valery-sur-somme/centre-de-vaccination-du-st-valery-sur-somme",
+      "nom": "Centre de vaccination - Ville de Poix-de-Picardie, SALLE DES F\u00caTES\u00a0",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/poix-de-picardie-80290/poix-de-picardie/centre-de-vaccination-de-poix-de-picardie",
       "plateforme": "Keldoc",
       "prochain_rdv": null
     },

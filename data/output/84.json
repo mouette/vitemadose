@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.768160+02:00",
-  "centres_disponibles": [],
+  "last_updated": "2021-04-05T19:40:39.639654+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "84",
+      "nom": "CPTS Grand Avignon - Ch\u00e2teau de la Barbi\u00e8re",
+      "url": "https://partners.doctolib.fr/centre-de-sante/morieres-les-avignon/centre-de-vaccination-covid-morieres-les-avignon?pid=practice-168035&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-05-01T10:50:00.000+02:00"
+    }
+  ],
   "centres_indisponibles": [
     {
       "departement": "84",
@@ -21,13 +29,6 @@
       "departement": "84",
       "nom": "Centre Hospitalier APT",
       "url": "https://partners.doctolib.fr/hopital-public/apt/centre-de-vaccination-covid-19-ch-pays-d-apt?pid=practice-164592?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "84",
-      "nom": "CPTS Grand Avignon - Ch\u00e2teau de la Barbi\u00e8re",
-      "url": "https://partners.doctolib.fr/centre-de-sante/morieres-les-avignon/centre-de-vaccination-covid-morieres-les-avignon?pid=practice-168035&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -89,15 +90,15 @@
     },
     {
       "departement": "84",
-      "nom": "CPTS SANTE LUB /MSP Les glycines",
-      "url": "https://partners.doctolib.fr/centre-de-sante/pertuis/centre-de-vaccination-la-tour-d-aigues?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "SOS M\u00e9decins LE PONTET",
+      "url": "https://partners.doctolib.fr/centre-de-sante/le-pontet/centre-de-vaccination-covid-maison-medicale-de-la-rose-des-vents-sos-medecins?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "84",
-      "nom": "SOS M\u00e9decins LE PONTET",
-      "url": "https://partners.doctolib.fr/centre-de-sante/le-pontet/centre-de-vaccination-covid-maison-medicale-de-la-rose-des-vents-sos-medecins?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "CPTS SANTE LUB /MSP Les glycines",
+      "url": "https://partners.doctolib.fr/centre-de-sante/pertuis/centre-de-vaccination-la-tour-d-aigues?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

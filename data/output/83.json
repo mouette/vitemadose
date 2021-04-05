@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.768151+02:00",
+  "last_updated": "2021-04-05T19:40:39.639645+02:00",
   "centres_disponibles": [
     {
       "departement": "83",
       "nom": "Urgences du CH de Saint Tropez (R\u00e9serv\u00e9 aux professionnels de sant\u00e9 lib\u00e9raux)",
       "url": "https://partners.doctolib.fr/hopital-public/gassin/centre-hospitalier-de-saint-tropez-reserve-aux-professionnels-de-sante?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-10T16:30:00.000+02:00"
+      "prochain_rdv": "2021-04-10T15:40:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -55,6 +55,13 @@
     },
     {
       "departement": "83",
+      "nom": "Centre de Vaccination SAINT MAXIMIN",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-173157&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "83",
       "nom": "HIA Sainte-Anne",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-hopital-d-instruction-des-armees-chia-sainte-anne?pid=practice-171324&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -64,13 +71,6 @@
       "departement": "83",
       "nom": "Centre de Vaccination de FAYENCE",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-173156&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "83",
-      "nom": "Centre de Vaccination SAINT MAXIMIN",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-173157&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -223,15 +223,15 @@
     },
     {
       "departement": "83",
-      "nom": "Complexe Saint-Exup\u00e9ry Gymnase Coubertin",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/draguignan/centre-de-vaccination-covid-19-de-draguignan?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Espace Caquot",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-165069?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "83",
-      "nom": "Espace Caquot",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-165069?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Complexe Saint-Exup\u00e9ry Gymnase Coubertin",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/draguignan/centre-de-vaccination-covid-19-de-draguignan?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

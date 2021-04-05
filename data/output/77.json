@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.767960+02:00",
+  "last_updated": "2021-04-05T19:40:39.639591+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -54,15 +54,15 @@
     },
     {
       "departement": "77",
-      "nom": "Centre de vaccination du GHSIF Melun",
-      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/melun-cedex-77011/groupe-hospitalier-sud-ile-de-france/centre-covid?specialty=496",
-      "plateforme": null,
+      "nom": "Lagny Centre de vaccination du Totem ",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/lagny-sur-marne-77400/cpts-liens-sante-77?motive=81620&category=-1&cabinet=16552&specialty=47",
+      "plateforme": "Keldoc",
       "prochain_rdv": null
     },
     {
       "departement": "77",
-      "nom": "Lagny Centre de vaccination du Totem ",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/lagny-sur-marne-77400/cpts-liens-sante-77?motive=81620&category=-1&cabinet=16552&specialty=47",
+      "nom": "Centre de vaccination du GHSIF Melun",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/melun-cedex-77011/groupe-hospitalier-sud-ile-de-france/centre-covid?specialty=496",
       "plateforme": "Keldoc",
       "prochain_rdv": null
     },
@@ -75,16 +75,16 @@
     },
     {
       "departement": "77",
-      "nom": "EMV Lagny",
-      "url": "",
-      "plateforme": "Autre",
+      "nom": "Centre de vaccination de Noisiel",
+      "url": "https://partners.doctolib.fr/centre-de-sante/noisiel/centre-de-vaccination-covid-19-de-noisiel?pid=practice-175253&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "77",
-      "nom": "Centre de vaccination de Noisiel",
-      "url": "https://partners.doctolib.fr/centre-de-sante/noisiel/centre-de-vaccination-covid-19-de-noisiel?pid=practice-175253&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "EMV Lagny",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {

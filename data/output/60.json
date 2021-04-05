@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.767791+02:00",
+  "last_updated": "2021-04-05T19:40:39.639431+02:00",
   "centres_disponibles": [
     {
       "departement": "60",
@@ -8,13 +8,6 @@
       "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/breuil-le-sec-60840/centre-hospitalier-isarien-de-clermont/centre-de-vaccination-covid-du-centre-hospitalier-isarien-de-clermont",
       "plateforme": "Keldoc",
       "prochain_rdv": "2021-04-26T10:50:00.000000+0200"
-    },
-    {
-      "departement": "60",
-      "nom": "Centre de vaccination - Commune de Pont Sainte Maxence,  gymnase la Salamandre rue Charles Frigaux ",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/pont-sainte-maxence/centre-de-vaccination-covid-19-pont-sainte-maxence?pid=practice-175373&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-15T16:30:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -62,6 +55,13 @@
     },
     {
       "departement": "60",
+      "nom": "Centre de vaccination - Commune de Pont Sainte Maxence,  gymnase la Salamandre rue Charles Frigaux ",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/pont-sainte-maxence/centre-de-vaccination-covid-19-pont-sainte-maxence?pid=practice-175373&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "60",
       "nom": "CP - Centre Hospitalier de Beauvais / Centre p\u00e9nitentiaire de Beauvais",
       "url": "",
       "plateforme": "Autre",
@@ -90,13 +90,6 @@
     },
     {
       "departement": "60",
-      "nom": "Centre de vaccination - MSP Cr\u00e9vecoeur le Grand",
-      "url": "https://partners.doctolib.fr/centre-de-sante/crevecoeur-le-grand/centre-de-vaccination-covid-19-msp-crevecoeur-le-grand?pid=practice-176391&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "60",
       "nom": "centre de vaccination - Mairie de Saint Just en chauss\u00e9e, L'OPUS",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-just-en-chaussee/centre-de-vaccination-covid-19-saint-just-en-chaussee?pid=practice-176105&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -106,6 +99,13 @@
       "departement": "60",
       "nom": "Centre de vaccination - Mairie de Chambly, gymnase en c\u0153ur de ville ",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/chambly/centre-de-vaccination-covid-19-ville-de-chambly?pid=practice-175375&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "60",
+      "nom": "Centre de vaccination - MSP Cr\u00e9vecoeur le Grand",
+      "url": "https://partners.doctolib.fr/centre-de-sante/crevecoeur-le-grand/centre-de-vaccination-covid-19-msp-crevecoeur-le-grand?pid=practice-176391&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -139,15 +139,15 @@
     },
     {
       "departement": "60",
-      "nom": "Centre de vaccination - CH CREIL GHPSO ",
-      "url": "https://partners.doctolib.fr/hopital-public/creil/ghpso-centre-de-vaccination-covid-19-reserve-aux-professionnels-de-sante?pid=practice-165159&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - Polyclinique SAINT COME",
+      "url": "https://partners.doctolib.fr/clinique-privee/compi\u00e8gne/polyclinique-saint-come-vaccination?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "60",
-      "nom": "Centre de vaccination - Polyclinique SAINT COME",
-      "url": "https://partners.doctolib.fr/clinique-privee/compi\u00e8gne/polyclinique-saint-come-vaccination?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - CH CREIL GHPSO ",
+      "url": "https://partners.doctolib.fr/hopital-public/creil/ghpso-centre-de-vaccination-covid-19-reserve-aux-professionnels-de-sante?pid=practice-165159&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

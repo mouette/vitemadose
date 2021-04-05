@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:36:55.767360+02:00",
+  "last_updated": "2021-04-05T19:40:39.638990+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -82,15 +82,15 @@
     },
     {
       "departement": "17",
-      "nom": "CENTRE PONT L'ABBE D'ARNOULT",
-      "url": "https://partners.doctolib.fr/centre-de-sante/pont-l-abbe-d-arnoult/centre-de-vaccination-covid-ville-pont-l-abbe-d-arnoult?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination Covid-19 du Centre des Congr\u00e8s de Jonzac",
+      "url": "https://partners.doctolib.fr/hopital-public/haute-saintonge/centre-de-vaccination-covid-19-haute-saintonge?pid=practice-164575&?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "17",
-      "nom": "Centre de vaccination Covid-19 du Centre des Congr\u00e8s de Jonzac",
-      "url": "https://partners.doctolib.fr/hopital-public/haute-saintonge/centre-de-vaccination-covid-19-haute-saintonge?pid=practice-164575&?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "CENTRE PONT L'ABBE D'ARNOULT",
+      "url": "https://partners.doctolib.fr/centre-de-sante/pont-l-abbe-d-arnoult/centre-de-vaccination-covid-ville-pont-l-abbe-d-arnoult?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
