@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:40:39.639559+02:00",
+  "last_updated": "2021-04-05T19:44:00.781990+02:00",
   "centres_disponibles": [
     {
       "departement": "74",
@@ -14,14 +14,14 @@
       "nom": "H\u00f4pitaux du Mont-Blanc - Institut de formation des aides-soignants",
       "url": "https://partners.doctolib.fr/hopital-public/sallanches/centre-de-vaccination-covid-hopitaux-du-pays-du-mont-blanc-hpmb?pid=practice-166360&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-15T09:15:00.000+02:00"
+      "prochain_rdv": "2021-04-15T10:15:00.000+02:00"
     },
     {
       "departement": "74",
       "nom": "Complexe Martin Luther King",
       "url": "https://partners.doctolib.fr/centre-de-sante/annemasse/centre-de-vaccination-covid-annemasse-complexe-martin-luther-king?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-17T16:45:00.000+02:00"
+      "prochain_rdv": "2021-05-15T18:00:00.000+02:00"
     }
   ],
   "centres_indisponibles": [

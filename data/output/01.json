@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:40:39.638772+02:00",
+  "last_updated": "2021-04-05T19:44:00.781257+02:00",
   "centres_disponibles": [
     {
       "departement": "01",
@@ -25,17 +25,17 @@
     },
     {
       "departement": "01",
-      "nom": "Centre de vaccination de la Plaine de l'Ain - Espace 1500",
-      "url": "https://www.maiia.com/centre-de-vaccination/01500-amberieu-en-bugey/centre-de-vaccination-de-la-plaine-de-l-ain",
-      "plateforme": "Maiia",
-      "prochain_rdv": "2021-04-20T16:50:00.000000Z"
-    },
-    {
-      "departement": "01",
       "nom": "Centre de vaccination du CH d'Oyonnax - Centre hospitalier du Haut Bugey",
       "url": "https://partners.doctolib.fr/hopital-public/oyonnax/centre-de-vaccination-du-centre-hospitalier-du-haut-bugey?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-23T10:55:00.000+02:00"
+      "prochain_rdv": "2021-04-13T10:05:00.000+02:00"
+    },
+    {
+      "departement": "01",
+      "nom": "Centre de vaccination de la Plaine de l'Ain - Espace 1500",
+      "url": "https://www.maiia.com/centre-de-vaccination/01500-amberieu-en-bugey/centre-de-vaccination-de-la-plaine-de-l-ain",
+      "plateforme": "Maiia",
+      "prochain_rdv": "2021-04-21T16:10:00.000000Z"
     }
   ],
   "centres_indisponibles": [

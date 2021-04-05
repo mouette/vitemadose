@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:40:39.639120+02:00",
+  "last_updated": "2021-04-05T19:44:00.781595+02:00",
   "centres_disponibles": [
     {
       "departement": "30",
@@ -14,7 +14,7 @@
       "nom": "Centre de vaccination COVID BELLEGARDE - TERRE D'ARGENCE",
       "url": "https://partners.doctolib.fr/centre-de-sante/bellegarde/centre-de-vaccination-de-bellegarde-les-cigales?pid=practice-177312&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-05T15:30:00.000+02:00"
+      "prochain_rdv": "2021-05-05T15:40:00.000+02:00"
     },
     {
       "departement": "30",
@@ -83,15 +83,15 @@
     },
     {
       "departement": "30",
-      "nom": "CH Mas Careiron",
-      "url": "https://partners.doctolib.fr/hopital-public/uzes/centre-de-vaccination-covid-ch-le-mas-careiron?pid=practice-164184&enable_cookies_consent=1",
+      "nom": "Centre de vaccination Vauvert - Petite Camargue",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/vauvert/centre-de-vaccination-de-vauvert-petite-camargue?pid=practice-166678&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "30",
-      "nom": "Centre de vaccination Vauvert - Petite Camargue",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/vauvert/centre-de-vaccination-de-vauvert-petite-camargue?pid=practice-166678&enable_cookies_consent=1",
+      "nom": "CH Mas Careiron",
+      "url": "https://partners.doctolib.fr/hopital-public/uzes/centre-de-vaccination-covid-ch-le-mas-careiron?pid=practice-164184&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

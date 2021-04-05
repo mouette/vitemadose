@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:40:39.639475+02:00",
+  "last_updated": "2021-04-05T19:44:00.781893+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -19,15 +19,15 @@
     },
     {
       "departement": "65",
-      "nom": "CENTRE DE VACCINATION DE BAGNERES-DE-BIGORRE",
-      "url": "https://partners.doctolib.fr/centre-de-sante/bagneres-de-bigorre/centre-de-vaccination-covid-19-de-bagneres-de-bigorre?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "CENTRE DE VACCINATION PARC DES EXPOSITIONS DE TARBES",
+      "url": "https://partners.doctolib.fr/centre-de-sante/tarbes/centre-de-vaccination-covid-de-tarbes-expo?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "65",
-      "nom": "CENTRE DE VACCINATION PARC DES EXPOSITIONS DE TARBES",
-      "url": "https://partners.doctolib.fr/centre-de-sante/tarbes/centre-de-vaccination-covid-de-tarbes-expo?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "CENTRE DE VACCINATION DE BAGNERES-DE-BIGORRE",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bagneres-de-bigorre/centre-de-vaccination-covid-19-de-bagneres-de-bigorre?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

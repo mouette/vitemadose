@@ -1,20 +1,20 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:40:39.639386+02:00",
+  "last_updated": "2021-04-05T19:44:00.781813+02:00",
   "centres_disponibles": [
     {
       "departement": "55",
       "nom": "Centre de vaccination de Bar-le-Duc (Salle Dumas) (Equipe mixte CH/m\u00e9decine de ville)",
       "url": "https://partners.doctolib.fr/hopital-public/bar-le-duc/centre-de-vaccination-covid-19-ch-bar-le-duc?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-12T15:10:00.000+02:00"
+      "prochain_rdv": "2021-04-12T15:15:00.000+02:00"
     },
     {
       "departement": "55",
       "nom": "Centre de vaccination de Verdun (Salle Cassin) (Equipe mixte CH/m\u00e9decine de ville)",
       "url": "https://partners.doctolib.fr/hopital-public/verdun/centre-de-vaccination-covid-19-ch-verdun?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-12T15:35:00.000+02:00"
+      "prochain_rdv": "2021-04-12T15:40:00.000+02:00"
     },
     {
       "departement": "55",
@@ -69,15 +69,15 @@
     },
     {
       "departement": "55",
-      "nom": "Lieu de vaccination d' ETAIN (salle Brasse et Focosi)",
-      "url": "https://www.maiia.com/centre-de-vaccination/55400-etain/centre-de-vaccination-d--etain",
+      "nom": "Lieu de vaccination de DAMVILLERS - MSP",
+      "url": "https://www.maiia.com/centre-de-vaccination/55150-damvillers/centre-de-vaccination---damvillers",
       "plateforme": "Maiia",
       "prochain_rdv": null
     },
     {
       "departement": "55",
-      "nom": "Lieu de vaccination de DAMVILLERS - MSP",
-      "url": "https://www.maiia.com/centre-de-vaccination/55150-damvillers/centre-de-vaccination---damvillers",
+      "nom": "Lieu de vaccination d' ETAIN (salle Brasse et Focosi)",
+      "url": "https://www.maiia.com/centre-de-vaccination/55400-etain/centre-de-vaccination-d--etain",
       "plateforme": "Maiia",
       "prochain_rdv": null
     },

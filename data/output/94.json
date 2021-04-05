@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:40:39.639753+02:00",
+  "last_updated": "2021-04-05T19:44:00.782175+02:00",
   "centres_disponibles": [
     {
       "departement": "94",
@@ -8,13 +8,6 @@
       "url": "https://www.maiia.com/centre-de-vaccination/94380-bonneuil-sur-marne/-centre-de-vaccination---espace-louise-voelckel",
       "plateforme": "Maiia",
       "prochain_rdv": "2021-04-06T09:15:00.000000Z"
-    },
-    {
-      "departement": "94",
-      "nom": "Centre de Vaccination Marie-Th\u00e9r\u00e8se EYQUEM Cr\u00e9teil",
-      "url": "https://partners.doctolib.fr/centre-de-sante/creteil/centre-de-vaccination-covid-ville-de-creteil?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-06T11:30:00.000+02:00"
     },
     {
       "departement": "94",
@@ -28,7 +21,7 @@
       "nom": "CENTRE DE VACCINATION AMBULATOIRE ALFORTVILLE",
       "url": "https://partners.doctolib.fr/centre-de-sante/alfortville/centre-de-vaccination-ambulatoire-d-alfortville-reserve-aux-professionnels-de-sante?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-06T10:15:00.000+02:00"
+      "prochain_rdv": "2021-05-08T15:15:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -183,6 +176,13 @@
       "departement": "94",
       "nom": "H\u00f4pital des Arm\u00e9es B\u00e9gin",
       "url": "https://partners.doctolib.fr/hopital-public/saint-mande/centre-de-vaccination-covid-19-hopital-des-armees-begin?pid=practice-178732&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "94",
+      "nom": "Centre de Vaccination Marie-Th\u00e9r\u00e8se EYQUEM Cr\u00e9teil",
+      "url": "https://partners.doctolib.fr/centre-de-sante/creteil/centre-de-vaccination-covid-ville-de-creteil?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

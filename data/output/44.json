@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:40:39.639276+02:00",
+  "last_updated": "2021-04-05T19:44:00.781722+02:00",
   "centres_disponibles": [
     {
       "departement": "44",
@@ -11,24 +11,17 @@
     },
     {
       "departement": "44",
-      "nom": "Centre de Vaccination COVID - NANTES Nord - Salle Erdre",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nantes/centre-de-vaccination-metroplitain-salle-festive-nantes-erdre?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-27T19:06:00.000+02:00"
-    },
-    {
-      "departement": "44",
       "nom": "Grand centre NANTES (en cours de d\u00e9claration) ",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nantes/centre-de-vaccination-covid-19-centre-d-exposition-de-la-beaujoire?pid=practice-164268&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-28T12:30:00.000+02:00"
+      "prochain_rdv": "2021-04-28T13:25:00.000+02:00"
     },
     {
       "departement": "44",
-      "nom": "Centre de vaccination - VERTOU - Salle S\u00e8vre et Maine",
-      "url": "https://www.doctolib.fr/centre-de-sante/vertou/centre-de-vaccination-covid-19-mairie-de-vertou",
+      "nom": "Centre de Vaccination COVID - NANTES Nord - Salle Erdre",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nantes/centre-de-vaccination-metroplitain-salle-festive-nantes-erdre?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-14T15:50:00.000+02:00"
+      "prochain_rdv": "2021-04-28T13:40:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -71,6 +64,13 @@
       "departement": "44",
       "nom": "Centre de vaccination - SAINT NAZAIRE - Base sous-marins",
       "url": "https://www.doctolib.fr/centre-de-sante/saint-nazaire/centre-de-vaccination-covid-19-ville-de-st-nazaire",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "44",
+      "nom": "Centre de vaccination - VERTOU - Salle S\u00e8vre et Maine",
+      "url": "https://www.doctolib.fr/centre-de-sante/vertou/centre-de-vaccination-covid-19-mairie-de-vertou",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

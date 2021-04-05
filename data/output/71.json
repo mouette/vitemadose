@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:40:39.639533+02:00",
+  "last_updated": "2021-04-05T19:44:00.781961+02:00",
   "centres_disponibles": [
     {
       "departement": "71",
@@ -14,7 +14,7 @@
       "nom": "Centre de vaccination de Pierre de Bresse",
       "url": "https://partners.doctolib.fr/centre-de-sante/chalon-sur-saone/centre-de-vaccination-covid-19-de-pierre-de-bresse?pid=practice-178058&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-15T11:42:00.000+02:00"
+      "prochain_rdv": "2021-04-15T12:18:00.000+02:00"
     },
     {
       "departement": "71",
@@ -35,7 +35,7 @@
       "nom": "Centre de vaccination de Chagny",
       "url": "https://partners.doctolib.fr/centre-de-sante/chagny/centre-de-vaccination-covid-19-de-chagny?pid=practice-178053&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-23T11:54:00.000+02:00"
+      "prochain_rdv": "2021-04-23T11:42:00.000+02:00"
     },
     {
       "departement": "71",
@@ -49,21 +49,21 @@
       "nom": "Centre de vaccination AUTUN - Salle l'Hexagone",
       "url": "https://partners.doctolib.fr/centre-de-sante/autun/centre-de-vaccination-d-autun?pid=practice-164356&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-04T11:18:00.000+02:00"
+      "prochain_rdv": "2021-05-04T11:24:00.000+02:00"
     },
     {
       "departement": "71",
       "nom": "Centre de vaccination DIGOIN - Grande salle des f\u00eates",
       "url": "https://partners.doctolib.fr/centre-de-sante/digoin/centre-de-vaccination-de-digoin?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-05T11:18:00.000+02:00"
+      "prochain_rdv": "2021-05-05T11:12:00.000+02:00"
     },
     {
       "departement": "71",
       "nom": "Centre vaccination CHALON SUR SAONE - Salle Sembat",
       "url": "https://partners.doctolib.fr/centre-de-sante/chalon-sur-saone/centre-de-vaccination-de-chalon-sur-saone?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-05T16:36:00.000+02:00"
+      "prochain_rdv": "2021-05-06T11:42:00.000+02:00"
     },
     {
       "departement": "71",

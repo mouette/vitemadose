@@ -1,13 +1,27 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:40:39.639191+02:00",
+  "last_updated": "2021-04-05T19:44:00.781660+02:00",
   "centres_disponibles": [
+    {
+      "departement": "38",
+      "nom": "Centre de vaccination - Maison des Associations  - C\u0152UR DE CHARTREUSE",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-laurent-du-pont-38380/centre-de-vaccination-coeur-de-chartreuse",
+      "plateforme": "Keldoc",
+      "prochain_rdv": "2021-04-08T08:57:00.000000+0200"
+    },
+    {
+      "departement": "38",
+      "nom": "Centre de vaccination de Bourgoin-Jallieu - Salle polyvalente",
+      "url": "https://vaccination-covid.keldoc.com/clinique/bourgoin-jallieu-38300/espace-senior-bourgoin-jallieu",
+      "plateforme": "Keldoc",
+      "prochain_rdv": "2021-04-09T09:50:00.000000+0200"
+    },
     {
       "departement": "38",
       "nom": "Centre de vaccination du CH de Saint Marcellin",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-marcellin/centre-de-vaccination-covid-19-st-marcellin-vercors-isere-communaute?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-13T09:40:00.000+02:00"
+      "prochain_rdv": "2021-04-13T09:35:00.000+02:00"
     },
     {
       "departement": "38",
@@ -21,7 +35,7 @@
       "nom": "Centre de vaccination de St Etienne de St Geoirs - Grenoble Air Parc",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/saint-etienne-de-saint-geoirs/centre-vaccination-de-la-bievre?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-15T08:15:00.000+02:00"
+      "prochain_rdv": "2021-04-15T08:50:00.000+02:00"
     },
     {
       "departement": "38",
@@ -36,13 +50,6 @@
       "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/le-versoud-38420/salle-polyvalente-le-versoud/centre-de-vaccination-de-la-salle-polyvalente-le-versoud",
       "plateforme": "Keldoc",
       "prochain_rdv": "2021-04-20T13:20:00.000000+0200"
-    },
-    {
-      "departement": "38",
-      "nom": "Centre de vaccination de Bourgoin-Jallieu - Salle polyvalente",
-      "url": "https://vaccination-covid.keldoc.com/clinique/bourgoin-jallieu-38300/espace-senior-bourgoin-jallieu",
-      "plateforme": "Keldoc",
-      "prochain_rdv": "2021-04-20T15:30:00.000000+0200"
     },
     {
       "departement": "38",
@@ -69,16 +76,16 @@
     },
     {
       "departement": "38",
-      "nom": "MA - US MA de Grenoble-Varces / Maison d'Arr\u00eat de Grenoble-Varces",
-      "url": "",
-      "plateforme": "Autre",
+      "nom": "Centre de vaccination de Vienne - Man\u00e8ge",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/vienne-38200/cegidd/cegidd-du-chu-grenoble",
+      "plateforme": null,
       "prochain_rdv": null
     },
     {
       "departement": "38",
-      "nom": "Centre de vaccination de Vienne - Man\u00e8ge",
-      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/vienne-38200/cegidd/cegidd-du-chu-grenoble",
-      "plateforme": "Keldoc",
+      "nom": "MA - US MA de Grenoble-Varces / Maison d'Arr\u00eat de Grenoble-Varces",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
@@ -104,13 +111,6 @@
     },
     {
       "departement": "38",
-      "nom": "Centre de vaccination - Maison des Associations  - C\u0152UR DE CHARTREUSE",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-laurent-du-pont-38380/centre-de-vaccination-coeur-de-chartreuse",
-      "plateforme": null,
-      "prochain_rdv": null
-    },
-    {
-      "departement": "38",
       "nom": "Centre de vaccination - Clinique des C\u00f4tes du Rh\u00f4ne",
       "url": "https://vaccination-covid.keldoc.com/clinique/roussillon-38150/clinique-des-cotes-du-rhone/centre-de-vaccination-de-la-clinique-des-cotes-du-rhone",
       "plateforme": "Keldoc",
@@ -125,8 +125,8 @@
     },
     {
       "departement": "38",
-      "nom": "Centre de vaccinations Nationales et Internationales de la ville de Grenoble",
-      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/grenoble-38000/centre-national-et-international-de-la-ville-de-grenoble/centre-de-vaccination-du-centre-national-et-international-de-la-ville-de-grenoble",
+      "nom": "Centre de vaccination de Grenoble - Centre d\u00e9partemental de sant\u00e9",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/grenoble-38000/centre-departemental-de-sante-du-chu-grenoble/centre-departemental-de-sante-du-chu-grenoble",
       "plateforme": "Keldoc",
       "prochain_rdv": null
     },
@@ -139,8 +139,8 @@
     },
     {
       "departement": "38",
-      "nom": "Centre de vaccination de Grenoble - Centre d\u00e9partemental de sant\u00e9",
-      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/grenoble-38000/centre-departemental-de-sante-du-chu-grenoble/centre-departemental-de-sante-du-chu-grenoble",
+      "nom": "Centre de vaccinations Nationales et Internationales de la ville de Grenoble",
+      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/grenoble-38000/centre-national-et-international-de-la-ville-de-grenoble/centre-de-vaccination-du-centre-national-et-international-de-la-ville-de-grenoble",
       "plateforme": "Keldoc",
       "prochain_rdv": null
     },

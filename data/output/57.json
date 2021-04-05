@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:40:39.639404+02:00",
+  "last_updated": "2021-04-05T19:44:00.781829+02:00",
   "centres_disponibles": [
     {
       "departement": "57",
@@ -14,7 +14,7 @@
       "nom": "Centre de vaccination de Thionville - Clinique Notre-Dame",
       "url": "https://partners.doctolib.fr/clinique-privee/thionville/centre-de-vaccination-thionville-elsan?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-22T10:24:00.000+02:00"
+      "prochain_rdv": "2021-04-22T11:36:00.000+02:00"
     }
   ],
   "centres_indisponibles": [

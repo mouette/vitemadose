@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:40:39.638890+02:00",
+  "last_updated": "2021-04-05T19:44:00.781365+02:00",
   "centres_disponibles": [
     {
       "departement": "06",
@@ -14,7 +14,7 @@
       "nom": "Centre de vaccination de la ville de Nice",
       "url": "https://partners.doctolib.fr/centre-de-sante/nice/centre-de-vaccination-covid-hancy-reserve-aux-professionnels-de-sante?pid=practice-172330&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-28T10:50:00.000+02:00"
+      "prochain_rdv": "2021-04-28T10:10:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -209,6 +209,13 @@
     },
     {
       "departement": "06",
+      "nom": "Centre Menton Plus Sablettes",
+      "url": "https://partners.doctolib.fr/maison-de-sante/menton/centre-de-vaccination-covid-menton-carf?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "06",
       "nom": "Maison des Associations Antibes",
       "url": "https://partners.doctolib.fr/centre-de-sante/antibes/vaccination?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -218,13 +225,6 @@
       "departement": "06",
       "nom": "Jardin Albert 1er Th\u00e9atre de Verdure",
       "url": "https://partners.doctolib.fr/centre-de-sante/nice/centre-de-vaccination-theatre-de-verdure?pid=practice-164232&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "06",
-      "nom": "Centre Menton Plus Sablettes",
-      "url": "https://partners.doctolib.fr/maison-de-sante/menton/centre-de-vaccination-covid-menton-carf?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

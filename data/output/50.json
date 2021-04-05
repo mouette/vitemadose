@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:40:39.639342+02:00",
+  "last_updated": "2021-04-05T19:44:00.781774+02:00",
   "centres_disponibles": [
     {
       "departement": "50",
@@ -21,7 +21,7 @@
       "nom": "Site de Coutances",
       "url": "https://partners.doctolib.fr/centre-de-sante/coutances/vaccination-site-des-unelles-coutances?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-21T11:33:00.000+02:00"
+      "prochain_rdv": "2021-04-21T12:29:00.000+02:00"
     }
   ],
   "centres_indisponibles": [

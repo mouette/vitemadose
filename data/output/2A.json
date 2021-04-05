@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:40:39.639103+02:00",
+  "last_updated": "2021-04-05T19:44:00.781579+02:00",
   "centres_disponibles": [
     {
       "departement": "2A",
       "nom": "CMA Porto Vecchio",
       "url": "https://partners.doctolib.fr/centre-de-sante/porto-vecchio/centre-de-vaccination-covid-19-cma-porto-vecchio?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-09T17:10:00.000+02:00"
+      "prochain_rdv": "2021-04-13T16:50:00.000+02:00"
     }
   ],
   "centres_indisponibles": [

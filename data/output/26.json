@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:40:39.639067+02:00",
+  "last_updated": "2021-04-05T19:44:00.781547+02:00",
   "centres_disponibles": [
     {
       "departement": "26",
       "nom": "Centre de vaccination - Salle de Cl\u00e9vos",
       "url": "https://partners.doctolib.fr/centre-de-sante/etoile-sur-rhone/centre-de-vaccination-covid-19-cpts-sud-valence?pid=practice-173051&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-07T16:50:00.000+02:00"
+      "prochain_rdv": "2021-04-09T16:20:00.000+02:00"
     },
     {
       "departement": "26",
@@ -62,13 +62,6 @@
     },
     {
       "departement": "26",
-      "nom": "Centre de vaccination de Saint Vallier",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-vallier/centre-de-vaccination-de-st-vallier?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "26",
       "nom": "Centre de vaccination - Groupement Hospitalier Portes de Provence - Institut de formation en soins infirmiers (IFSI)",
       "url": "https://partners.doctolib.fr/hopital-public/montelimar/centre-de-vaccination-covid-gh-portes-de-provence-montelimar?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -78,6 +71,13 @@
       "departement": "26",
       "nom": "Centre de vaccination de Romans sur Is\u00e8re - Salle des cordeliers",
       "url": "https://partners.doctolib.fr/centre-de-sante/romans-sur-isere/centre-de-vaccinations-de-romans-sur-isere-salle-des-cordeliers?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "26",
+      "nom": "Centre de vaccination de Saint Vallier",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-vallier/centre-de-vaccination-de-st-vallier?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     }

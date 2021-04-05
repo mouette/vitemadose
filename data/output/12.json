@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:40:39.638946+02:00",
+  "last_updated": "2021-04-05T19:44:00.781435+02:00",
   "centres_disponibles": [
     {
       "departement": "12",
@@ -11,24 +11,24 @@
     },
     {
       "departement": "12",
-      "nom": "Villefrance-De-Rouergue",
-      "url": "https://partners.doctolib.fr/centre-de-sante/villefranche-de-rouergue/centre-de-vaccination-covid-villefranche-de-rouergue?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-15T14:30:00.000+02:00"
-    },
-    {
-      "departement": "12",
       "nom": "CH de Rodez H\u00f4pital Jacques Puel ",
       "url": "https://partners.doctolib.fr/hopital-public/rodez/centre-de-vaccination-covid-hopital-ville-rodez?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-15T17:45:00.000+02:00"
+      "prochain_rdv": "2021-04-15T17:50:00.000+02:00"
+    },
+    {
+      "departement": "12",
+      "nom": "Villefrance-De-Rouergue",
+      "url": "https://partners.doctolib.fr/centre-de-sante/villefranche-de-rouergue/centre-de-vaccination-covid-villefranche-de-rouergue?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-20T12:10:00.000+02:00"
     },
     {
       "departement": "12",
       "nom": "CH DE DECAZEVILLE",
       "url": "https://partners.doctolib.fr/hopital-public/decazeville/centre-de-vaccination-covid-ch-decazeville?pid=practice-165118?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-24T08:54:00.000+02:00"
+      "prochain_rdv": "2021-04-23T13:46:00.000+02:00"
     }
   ],
   "centres_indisponibles": [

@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:40:39.639413+02:00",
+  "last_updated": "2021-04-05T19:44:00.781837+02:00",
   "centres_disponibles": [
     {
       "departement": "58",
       "nom": "Decize - Salle Theodore GERARD",
       "url": "https://partners.doctolib.fr/centre-de-sante/decize/centre-de-vaccination-covid-mairie-de-decize?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-30T08:50:00.000+02:00"
+      "prochain_rdv": "2021-05-06T11:40:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -76,13 +76,6 @@
     },
     {
       "departement": "58",
-      "nom": "CD Lamartine",
-      "url": "https://partners.doctolib.fr/centre-de-sante/nevers/centre-departemental-de-vaccination-de-la-nievre?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "58",
       "nom": "La Charit\u00e9 Sur Loire - Salle des F\u00eates",
       "url": "https://partners.doctolib.fr/centre-de-sante/la-charite-sur-loire/centre-de-vaccination-de-la-charite-sur-loire?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -92,6 +85,13 @@
       "departement": "58",
       "nom": "SAINT PIERRE LE MOUTIER - annexe de la mairie",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-pierre-le-moutier/centre-de-vaccination-covid-st-pierre-le-moutier?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "58",
+      "nom": "CD Lamartine",
+      "url": "https://partners.doctolib.fr/centre-de-sante/nevers/centre-departemental-de-vaccination-de-la-nievre?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

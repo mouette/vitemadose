@@ -1,20 +1,20 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:40:39.639076+02:00",
+  "last_updated": "2021-04-05T19:44:00.781555+02:00",
   "centres_disponibles": [
     {
       "departement": "27",
       "nom": "Louviers : maison des sports et associations",
       "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-164880&?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-27T11:30:00.000+02:00"
+      "prochain_rdv": "2021-04-27T18:00:00.000+02:00"
     },
     {
       "departement": "27",
       "nom": "Halle des expositions d'Evreux",
       "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-164976&?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-06T10:50:00.000+02:00"
+      "prochain_rdv": "2021-05-06T13:50:00.000+02:00"
     }
   ],
   "centres_indisponibles": [

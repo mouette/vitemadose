@@ -1,14 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:40:39.639049+02:00",
+  "last_updated": "2021-04-05T19:44:00.781531+02:00",
   "centres_disponibles": [
-    {
-      "departement": "24",
-      "nom": "Filature de l'Isle",
-      "url": "https://partners.doctolib.fr/hopital-public/perigueux/vaccination-covid?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-07T13:30:00.000+02:00"
-    },
     {
       "departement": "24",
       "nom": "Centre hospitalier de Bergerac",
@@ -63,15 +56,15 @@
     {
       "departement": "24",
       "nom": "EHPAD La Madeleine",
-      "url": "https://partners.doctolib.fr/centre-de-sante/bergerac/centre-de-vaccination-covid-19-ehpad-la-madeleine?pid=practice-174840&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
       "departement": "24",
       "nom": "EHPAD La Madeleine",
-      "url": "",
-      "plateforme": "Autre",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bergerac/centre-de-vaccination-covid-19-ehpad-la-madeleine?pid=practice-174840&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
@@ -118,16 +111,16 @@
     },
     {
       "departement": "24",
-      "nom": "Maison de sant\u00e9 du Pays Montponnais",
-      "url": "https://partners.doctolib.fr/centre-de-sante/montpon-menesterol/centre-de-vaccination-covid-19-montpon-menestrol?pid=practice-170938&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "CV mobile -Perigueux- SDIS/CD",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
       "departement": "24",
-      "nom": "CV mobile -Perigueux- SDIS/CD",
-      "url": "",
-      "plateforme": "Autre",
+      "nom": "Maison de sant\u00e9 du Pays Montponnais",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montpon-menesterol/centre-de-vaccination-covid-19-montpon-menestrol?pid=practice-170938&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
@@ -163,6 +156,13 @@
       "nom": "Maison de sant\u00e9 pluridisciplinaire du Pays de Lanouaille",
       "url": "https://www.maiia.com/centre-de-vaccination/24270-lanouaille/centre-de-vaccination-covid---lanouaille-",
       "plateforme": "Maiia",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "24",
+      "nom": "Filature de l'Isle",
+      "url": "https://partners.doctolib.fr/hopital-public/perigueux/vaccination-covid?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {

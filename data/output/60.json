@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:40:39.639431+02:00",
+  "last_updated": "2021-04-05T19:44:00.781853+02:00",
   "centres_disponibles": [
     {
       "departement": "60",
@@ -55,13 +55,6 @@
     },
     {
       "departement": "60",
-      "nom": "Centre de vaccination - Commune de Pont Sainte Maxence,  gymnase la Salamandre rue Charles Frigaux ",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/pont-sainte-maxence/centre-de-vaccination-covid-19-pont-sainte-maxence?pid=practice-175373&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "60",
       "nom": "CP - Centre Hospitalier de Beauvais / Centre p\u00e9nitentiaire de Beauvais",
       "url": "",
       "plateforme": "Autre",
@@ -72,6 +65,13 @@
       "nom": "CP - US2 / Centre P\u00e9nitentiaire de Liancourt",
       "url": "",
       "plateforme": "Autre",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "60",
+      "nom": "Centre de vaccination - Commune de Pont Sainte Maxence,  gymnase la Salamandre rue Charles Frigaux ",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/pont-sainte-maxence/centre-de-vaccination-covid-19-pont-sainte-maxence?pid=practice-175373&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
@@ -90,6 +90,13 @@
     },
     {
       "departement": "60",
+      "nom": "Centre de vaccination - MSP Cr\u00e9vecoeur le Grand",
+      "url": "https://partners.doctolib.fr/centre-de-sante/crevecoeur-le-grand/centre-de-vaccination-covid-19-msp-crevecoeur-le-grand?pid=practice-176391&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "60",
       "nom": "centre de vaccination - Mairie de Saint Just en chauss\u00e9e, L'OPUS",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-just-en-chaussee/centre-de-vaccination-covid-19-saint-just-en-chaussee?pid=practice-176105&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -99,13 +106,6 @@
       "departement": "60",
       "nom": "Centre de vaccination - Mairie de Chambly, gymnase en c\u0153ur de ville ",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/chambly/centre-de-vaccination-covid-19-ville-de-chambly?pid=practice-175375&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "60",
-      "nom": "Centre de vaccination - MSP Cr\u00e9vecoeur le Grand",
-      "url": "https://partners.doctolib.fr/centre-de-sante/crevecoeur-le-grand/centre-de-vaccination-covid-19-msp-crevecoeur-le-grand?pid=practice-176391&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
