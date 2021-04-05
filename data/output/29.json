@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:47:47.319179+02:00",
+  "last_updated": "2021-04-05T19:51:34.186108+02:00",
   "centres_disponibles": [
+    {
+      "departement": "29",
+      "nom": "CH MORLAIX (anciens locaux EFS)",
+      "url": "https://partners.doctolib.fr/hopital-public/morlaix/ch-morlaix-centre-de-vaccination-covid-19-reserve-aux-professionnels-de-sante?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-08T17:35:00.000+02:00"
+    },
     {
       "departement": "29",
       "nom": "LESNEVEN - L'atelier",
@@ -15,13 +22,6 @@
       "url": "https://www.maiia.com/centre-de-vaccination/29800-landerneau/centre-de-vaccination---landerneau---lesneven",
       "plateforme": "Maiia",
       "prochain_rdv": "2021-04-14T09:05:00.000000Z"
-    },
-    {
-      "departement": "29",
-      "nom": "CH MORLAIX (anciens locaux EFS)",
-      "url": "https://partners.doctolib.fr/hopital-public/morlaix/ch-morlaix-centre-de-vaccination-covid-19-reserve-aux-professionnels-de-sante?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-14T14:20:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -62,16 +62,16 @@
     },
     {
       "departement": "29",
-      "nom": "MORLAIX - LANGOLVAS",
-      "url": "https://partners.doctolib.fr/maison-de-sante/morlaix/ch-morlaix-centre-de-vaccination-covid-19?pid=practice-163107&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "DOUARNENEZ - Centre Gradlon",
+      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/douarnenez-29100/gradlon/centre-de-vaccination-de-gradlon",
+      "plateforme": "Keldoc",
       "prochain_rdv": null
     },
     {
       "departement": "29",
-      "nom": "DOUARNENEZ - Centre Gradlon",
-      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/douarnenez-29100/gradlon/centre-de-vaccination-de-gradlon",
-      "plateforme": "Keldoc",
+      "nom": "MORLAIX - LANGOLVAS",
+      "url": "https://partners.doctolib.fr/maison-de-sante/morlaix/ch-morlaix-centre-de-vaccination-covid-19?pid=practice-163107&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {

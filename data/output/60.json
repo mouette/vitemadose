@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:47:47.319515+02:00",
+  "last_updated": "2021-04-05T19:51:34.186424+02:00",
   "centres_disponibles": [
     {
       "departement": "60",
-      "nom": "Centre de vaccination - Mairie de Creil, centre culturel La Faiencerie \u2013 Salle de la manufacture",
-      "url": "https://partners.doctolib.fr/centre-de-sante/creil/centre-de-vaccination-covid-19-mairie-de-creil?pid=practice-175283&enable_cookies_consent=1",
+      "nom": "Centre de vaccination -Communaut\u00e9 d'Agglom\u00e9ration du Beauvaisis, gymnase Andr\u00e9-Ambroise",
+      "url": "https://partners.doctolib.fr/centre-de-sante/beauvais/centre-de-vaccination-covid-departement-de-l-oise?pid=practice-176858&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-08T14:30:00.000+02:00"
+      "prochain_rdv": "2021-04-06T09:45:00.000+02:00"
     },
     {
       "departement": "60",
@@ -69,15 +69,15 @@
     },
     {
       "departement": "60",
-      "nom": "Centre de vaccination - Ville de Chantilly",
-      "url": "https://partners.doctolib.fr/centre-de-sante/chantilly/centre-de-vaccination-chantilly?pid=practice-164497&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - CPTS du pays de Bray",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-aubin-en-bray/communaute-de-soins-du-pays-de-bray-vaccination-covid?pid=practice-164539&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "60",
-      "nom": "Centre de vaccination - CPTS du pays de Bray",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-aubin-en-bray/communaute-de-soins-du-pays-de-bray-vaccination-covid?pid=practice-164539&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - Ville de Chantilly",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chantilly/centre-de-vaccination-chantilly?pid=practice-164497&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -90,8 +90,8 @@
     },
     {
       "departement": "60",
-      "nom": "Centre de vaccination - MSP Cr\u00e9vecoeur le Grand",
-      "url": "https://partners.doctolib.fr/centre-de-sante/crevecoeur-le-grand/centre-de-vaccination-covid-19-msp-crevecoeur-le-grand?pid=practice-176391&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - Mairie de Creil, centre culturel La Faiencerie \u2013 Salle de la manufacture",
+      "url": "https://partners.doctolib.fr/centre-de-sante/creil/centre-de-vaccination-covid-19-mairie-de-creil?pid=practice-175283&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -99,6 +99,13 @@
       "departement": "60",
       "nom": "centre de vaccination - Mairie de Saint Just en chauss\u00e9e, L'OPUS",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-just-en-chaussee/centre-de-vaccination-covid-19-saint-just-en-chaussee?pid=practice-176105&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "60",
+      "nom": "Centre de vaccination - MSP Cr\u00e9vecoeur le Grand",
+      "url": "https://partners.doctolib.fr/centre-de-sante/crevecoeur-le-grand/centre-de-vaccination-covid-19-msp-crevecoeur-le-grand?pid=practice-176391&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -114,13 +121,6 @@
       "nom": "Centre de vaccination - communaut\u00e9 de commune du Liancourtois, Salle Guy Lejeune",
       "url": "",
       "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "60",
-      "nom": "Centre de vaccination -Communaut\u00e9 d'Agglom\u00e9ration du Beauvaisis, gymnase Andr\u00e9-Ambroise",
-      "url": "https://partners.doctolib.fr/centre-de-sante/beauvais/centre-de-vaccination-covid-departement-de-l-oise?pid=practice-176858&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {

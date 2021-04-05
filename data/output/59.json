@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:47:47.319505+02:00",
+  "last_updated": "2021-04-05T19:51:34.186415+02:00",
   "centres_disponibles": [
+    {
+      "departement": "59",
+      "nom": "Centre de vaccination - CH LE CATEAU",
+      "url": "https://partners.doctolib.fr/hopital-public/le-cateau-cambr\u00e9sis/ch-le-cateau-centre-vaccination-covid-19?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-08T11:45:00.000+02:00"
+    },
     {
       "departement": "59",
       "nom": "Centre de vaccination - Centre Hospitalier de Valenciennes et CPTS du Valenciennois 2, Salle JEAN MINEUR",
@@ -15,6 +22,13 @@
       "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/maubeuge-59600/centre-hospitalier-de-sambre-avesnois/centre-de-vaccination-du-centre-hospitalier-de-sambre-avesnois",
       "plateforme": "Keldoc",
       "prochain_rdv": "2021-05-04T09:45:00.000000+0200"
+    },
+    {
+      "departement": "59",
+      "nom": "Centre de vaccination - CPTS P\u00e9v\u00e8le du Douaisis, Salle la Grange",
+      "url": "https://partners.doctolib.fr/centre-de-sante/orchies/centre-de-vaccination-covid-19-orchies?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-05-05T13:30:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -36,13 +50,6 @@
       "departement": "59",
       "nom": "Centre de vaccination - Commune de Bertry, Salle des f\u00eates",
       "url": "https://partners.doctolib.fr/centre-de-sante/gouzeaucourt/centre-de-vaccination-covid-19-cpts-du-haut-escault?pid=practice-178391&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "59",
-      "nom": "Centre de vaccination - CH LE CATEAU",
-      "url": "https://partners.doctolib.fr/hopital-public/le-cateau-cambr\u00e9sis/ch-le-cateau-centre-vaccination-covid-19?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -125,15 +132,15 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - KURSAAL",
-      "url": "https://partners.doctolib.fr/centre-de-sante/dunkerque/centre-de-vaccination-covid-19-kursaal-dunkerque?pid=practice-175344&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - Ville de Bourbourg, Espace Pierre de Coubertin ",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bourbourg/centre-de-vaccination-covid-19-bourbourg?pid=practice-175280&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - Ville de Bourbourg, Espace Pierre de Coubertin ",
-      "url": "https://partners.doctolib.fr/centre-de-sante/bourbourg/centre-de-vaccination-covid-19-bourbourg?pid=practice-175280&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - KURSAAL",
+      "url": "https://partners.doctolib.fr/centre-de-sante/dunkerque/centre-de-vaccination-covid-19-kursaal-dunkerque?pid=practice-175344&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -216,16 +223,16 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - Maison de sant\u00e9 Aulnoye Aymeries",
-      "url": "https://partners.doctolib.fr/maison-de-sante/aulnoye-aymeries/centre-de-vaccination-covid-19-maison-de-sante-aulnoye-aymeries?pid=practice-165270&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "Centre de vaccination - Commune de Cond\u00e9-sur-l'Escaut, MSP",
+      "url": "https://www.doctolib.fr/centre-de-sante/conde-sur-l-escaut",
+      "plateforme": null,
       "prochain_rdv": null
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - Commune de Cond\u00e9-sur-l'Escaut, MSP",
-      "url": "https://www.doctolib.fr/centre-de-sante/conde-sur-l-escaut",
-      "plateforme": null,
+      "nom": "Centre de vaccination - Maison de sant\u00e9 Aulnoye Aymeries",
+      "url": "https://partners.doctolib.fr/maison-de-sante/aulnoye-aymeries/centre-de-vaccination-covid-19-maison-de-sante-aulnoye-aymeries?pid=practice-165270&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
@@ -272,13 +279,6 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - POLYCLINIQUE VAUBAN",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-saulve/centre-de-vaccination-covid-19-groupe-elsan?pid=practice-162448&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "59",
       "nom": "Centre de vaccination - HOPITAL PRIV\u00c9 LE BOIS",
       "url": "https://partners.doctolib.fr/centre-de-sante/villeneuve-d-ascq/vaccination-covid-19-hopital-prive-le-bois-et-villeneuve-d-ascq?pid=practice-163992&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -288,6 +288,13 @@
       "departement": "59",
       "nom": "Centre de vaccination - CH Seclin (SALLE ROSENBERG)",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/haut-de-france/vaccination-gh-seclin-carvin?pid=practice-163841&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "59",
+      "nom": "Centre de vaccination - POLYCLINIQUE VAUBAN",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-saulve/centre-de-vaccination-covid-19-groupe-elsan?pid=practice-162448&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -358,13 +365,6 @@
       "departement": "59",
       "nom": "Centre de vaccination - CH Armenti\u00e8res",
       "url": "https://partners.doctolib.fr/hopital-public/armentieres/ch-armentieres?pid=practice-175038&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "59",
-      "nom": "Centre de vaccination - CPTS P\u00e9v\u00e8le du Douaisis, Salle la Grange",
-      "url": "https://partners.doctolib.fr/centre-de-sante/orchies/centre-de-vaccination-covid-19-orchies?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -447,15 +447,15 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - CH DUNKERQUE",
-      "url": "https://partners.doctolib.fr/hopital-public/dunkerque/ch-dunkerque-centre-de-vaccination-covid-19?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - Clinique Sainte Marie (GHICL) ",
+      "url": "https://partners.doctolib.fr/clinique-privee/cambrai/centre-de-vaccination-covid-19-clinique-sainte-marie-ghicl-cambrai?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - Clinique Sainte Marie (GHICL) ",
-      "url": "https://partners.doctolib.fr/clinique-privee/cambrai/centre-de-vaccination-covid-19-clinique-sainte-marie-ghicl-cambrai?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination - CH DUNKERQUE",
+      "url": "https://partners.doctolib.fr/hopital-public/dunkerque/ch-dunkerque-centre-de-vaccination-covid-19?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     }

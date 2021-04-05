@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:47:47.318797+02:00",
+  "last_updated": "2021-04-05T19:51:34.185952+02:00",
   "centres_disponibles": [
     {
       "departement": "12",
       "nom": "Centre de Vaccination Millau",
       "url": "https://partners.doctolib.fr/hopital-public/millau/centre-de-vaccination-millau?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-13T11:55:00.000+02:00"
+      "prochain_rdv": "2021-04-13T11:50:00.000+02:00"
     },
     {
       "departement": "12",
@@ -21,7 +21,7 @@
       "nom": "Villefrance-De-Rouergue",
       "url": "https://partners.doctolib.fr/centre-de-sante/villefranche-de-rouergue/centre-de-vaccination-covid-villefranche-de-rouergue?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-19T15:30:00.000+02:00"
+      "prochain_rdv": "2021-04-20T12:10:00.000+02:00"
     },
     {
       "departement": "12",

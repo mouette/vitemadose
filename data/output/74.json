@@ -1,27 +1,27 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:47:47.319802+02:00",
+  "last_updated": "2021-04-05T19:51:34.186553+02:00",
   "centres_disponibles": [
     {
       "departement": "74",
       "nom": "CHATEL",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/chatel-74390/centre-de-vaccination-mairie-de-chatel/centre-de-vaccination-mairie-de-chatel?cabinet=18781&specialty=496",
       "plateforme": "Keldoc",
-      "prochain_rdv": "2021-04-06T16:25:00.000000+0200"
+      "prochain_rdv": "2021-04-06T16:30:00.000000+0200"
     },
     {
       "departement": "74",
       "nom": "H\u00f4pitaux du Mont-Blanc - Institut de formation des aides-soignants",
       "url": "https://partners.doctolib.fr/hopital-public/sallanches/centre-de-vaccination-covid-hopitaux-du-pays-du-mont-blanc-hpmb?pid=practice-166360&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-15T11:45:00.000+02:00"
+      "prochain_rdv": "2021-04-15T10:15:00.000+02:00"
     },
     {
       "departement": "74",
       "nom": "Complexe Martin Luther King",
       "url": "https://partners.doctolib.fr/centre-de-sante/annemasse/centre-de-vaccination-covid-annemasse-complexe-martin-luther-king?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-17T16:45:00.000+02:00"
+      "prochain_rdv": "2021-05-17T16:15:00.000+02:00"
     }
   ],
   "centres_indisponibles": [

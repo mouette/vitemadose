@@ -1,22 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:47:47.319678+02:00",
-  "centres_disponibles": [
-    {
-      "departement": "68",
-      "nom": "Centre de vaccination de Guebwiller - Salle de gymnastique 1860",
-      "url": "https://partners.doctolib.fr/centre-de-sante/guebwiller/centre-de-vaccination-covid-ville-de-guebwiller?pid=practice-176830&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-07T09:20:00.000+02:00"
-    },
-    {
-      "departement": "68",
-      "nom": "Centre de vaccination de Wittenheim - Complexe L\u00e9o Lagrange",
-      "url": "https://partners.doctolib.fr/centre-de-sante/wittenheim/centre-de-vaccination-covid-19-ville-de-wittenheim?pid=practice-176378&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-09T11:00:00.000+02:00"
-    }
-  ],
+  "last_updated": "2021-04-05T19:51:34.186495+02:00",
+  "centres_disponibles": [],
   "centres_indisponibles": [
     {
       "departement": "68",
@@ -76,8 +61,22 @@
     },
     {
       "departement": "68",
+      "nom": "Centre de vaccination de Wittenheim - Complexe L\u00e9o Lagrange",
+      "url": "https://partners.doctolib.fr/centre-de-sante/wittenheim/centre-de-vaccination-covid-19-ville-de-wittenheim?pid=practice-176378&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "68",
       "nom": "Centre de vaccination mobile - Mulhouse Alsace Agglom\u00e9ration (M2A)",
       "url": "https://partners.doctolib.fr/centre-de-sante/mulhouse/centre-de-vaccination-vacci-bus-m2a?pid=practice-175755&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de Guebwiller - Salle de gymnastique 1860",
+      "url": "https://partners.doctolib.fr/centre-de-sante/guebwiller/centre-de-vaccination-covid-ville-de-guebwiller?pid=practice-176830&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -97,15 +96,15 @@
     },
     {
       "departement": "68",
-      "nom": "Centre de vaccination d'Altkirch",
-      "url": "https://partners.doctolib.fr/centre-de-sante/altkirch/centre-de-vaccination-covid-19-mairie-d-altkirch?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination de Saint-Louis",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-louis/centre-de-vaccination-forum-jean-marie-zoelle-saint-louis?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "68",
-      "nom": "Centre de vaccination de Saint-Louis",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-louis/centre-de-vaccination-forum-jean-marie-zoelle-saint-louis?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination d'Altkirch",
+      "url": "https://partners.doctolib.fr/centre-de-sante/altkirch/centre-de-vaccination-covid-19-mairie-d-altkirch?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:47:47.320007+02:00",
-  "centres_disponibles": [
-    {
-      "departement": "84",
-      "nom": "CPTS Grand Avignon - Ch\u00e2teau de la Barbi\u00e8re",
-      "url": "https://partners.doctolib.fr/centre-de-sante/morieres-les-avignon/centre-de-vaccination-covid-morieres-les-avignon?pid=practice-168035&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-21T10:10:00.000+02:00"
-    }
-  ],
+  "last_updated": "2021-04-05T19:51:34.186748+02:00",
+  "centres_disponibles": [],
   "centres_indisponibles": [
     {
       "departement": "84",
@@ -22,6 +14,13 @@
       "departement": "84",
       "nom": "Centre de vaccination MIN Cavaillon",
       "url": "https://partners.doctolib.fr/hopital-public/cavaillon/centre-hospitalier-intercommunal-cavaillon-lauris-vaccination-covid-19-cavaillon?pid=practice-165842&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "84",
+      "nom": "CPTS Grand Avignon - Ch\u00e2teau de la Barbi\u00e8re",
+      "url": "https://partners.doctolib.fr/centre-de-sante/morieres-les-avignon/centre-de-vaccination-covid-morieres-les-avignon?pid=practice-168035&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -83,15 +82,15 @@
     },
     {
       "departement": "84",
-      "nom": "CPTS SANTE LUB / LAURIS",
-      "url": "https://partners.doctolib.fr/centre-de-sante/lauris/centre-de-vaccination-lauris?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "SOS M\u00e9decins LE PONTET",
+      "url": "https://partners.doctolib.fr/centre-de-sante/le-pontet/centre-de-vaccination-covid-maison-medicale-de-la-rose-des-vents-sos-medecins?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "84",
-      "nom": "SOS M\u00e9decins LE PONTET",
-      "url": "https://partners.doctolib.fr/centre-de-sante/le-pontet/centre-de-vaccination-covid-maison-medicale-de-la-rose-des-vents-sos-medecins?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "CPTS SANTE LUB / LAURIS",
+      "url": "https://partners.doctolib.fr/centre-de-sante/lauris/centre-de-vaccination-lauris?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

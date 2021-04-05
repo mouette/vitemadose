@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:47:47.320131+02:00",
+  "last_updated": "2021-04-05T19:51:34.186859+02:00",
   "centres_disponibles": [
     {
       "departement": "95",
       "nom": "CENTRE DE VACCINATION TAVERNY",
       "url": "https://partners.doctolib.fr/centre-de-sante/taverny/centre-de-vaccination-de-taverny?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-06T10:00:00.000+02:00"
+      "prochain_rdv": "2021-04-06T10:10:00.000+02:00"
     },
     {
       "departement": "95",
@@ -21,21 +21,14 @@
       "nom": "Centre de vaccination - Centre Hospitalier Ren\u00e9 Dubos",
       "url": "https://partners.doctolib.fr/hopital-public/pontoise/ght-novo-ghcpo-chrd-vaccination-covid-19?pid=practice-162508&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-08T14:40:00.000+02:00"
+      "prochain_rdv": "2021-04-08T14:25:00.000+02:00"
     },
     {
       "departement": "95",
       "nom": "Centre intercommunal de vaccination - Viarmes",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/viarmes/centre-de-vaccination-covid-19-centre-intercommunal-de-viarmes?pid=practice-178712&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-09T09:15:00.000+02:00"
-    },
-    {
-      "departement": "95",
-      "nom": "Centre de vaccination de Sannois",
-      "url": "https://www.doctolib.fr/centre-de-sante/sannois/centre-de-vaccination-covid-19-commune-de-sannois",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-09T14:30:00.000+02:00"
+      "prochain_rdv": "2021-04-09T09:55:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -55,13 +48,6 @@
     },
     {
       "departement": "95",
-      "nom": "Centre de vaccination territorial Centre Val d'Oise",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-brice-sous-foret-95350/vaccination-plaine-vallee-saint-brice-sous-foret?category=-1&cabinet=16609&specialty=496",
-      "plateforme": "Keldoc",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "95",
       "nom": "Centre Hospitalier de Gonesse",
       "url": "https://partners.doctolib.fr/hopital-public/gonesse/centre-de-vaccinations-covid-ch-gonesse?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -69,9 +55,23 @@
     },
     {
       "departement": "95",
+      "nom": "Centre de vaccination territorial Centre Val d'Oise",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-brice-sous-foret-95350/vaccination-plaine-vallee-saint-brice-sous-foret?category=-1&cabinet=16609&specialty=496",
+      "plateforme": "Keldoc",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "95",
       "nom": "Centre de vaccination de Garges-l\u00e8s-Gonesse",
       "url": "",
       "plateforme": "Autre",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de vaccination territorial Centre Val d'Oise",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/montmorency-95160/vaccination-plaine-vallee-montmorency-salle-des-fetes?category=-1&cabinet=16607&specialty=496",
+      "plateforme": "Keldoc",
       "prochain_rdv": null
     },
     {
@@ -104,13 +104,6 @@
     },
     {
       "departement": "95",
-      "nom": "Centre de vaccination territorial Centre Val d'Oise",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/montmorency-95160/vaccination-plaine-vallee-montmorency-salle-des-fetes?category=-1&cabinet=16607&specialty=496",
-      "plateforme": "Keldoc",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "95",
       "nom": "Centre d\u00e9partemental de d\u00e9pistage et de soins - site de Cergy",
       "url": "",
       "plateforme": "Autre",
@@ -121,6 +114,13 @@
       "nom": "Centre d\u00e9partemental de d\u00e9pistage et de soins - site de Garges-l\u00e8s-Gonesse",
       "url": "",
       "plateforme": "Autre",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de vaccination de Sannois",
+      "url": "https://www.doctolib.fr/centre-de-sante/sannois/centre-de-vaccination-covid-19-commune-de-sannois",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
@@ -188,16 +188,16 @@
     },
     {
       "departement": "95",
-      "nom": "Centre de vaccination territorial Centre Val d'Oise",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/enghien-les-bains-95880/vaccination-plaine-vallee-enghien-les-bains?category=-1&cabinet=16606&specialty=496",
-      "plateforme": "Keldoc",
+      "nom": "Centre de vaccination Pean Auvers-sur-Oise",
+      "url": "https://partners.doctolib.fr/centre-de-sante/auvers-sur-oise/centre-de-vaccination-d-auvers-sur-oise?pid=practice-177442&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "95",
-      "nom": "Centre de vaccination Pean Auvers-sur-Oise",
-      "url": "https://partners.doctolib.fr/centre-de-sante/auvers-sur-oise/centre-de-vaccination-d-auvers-sur-oise?pid=practice-177442&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "Centre de vaccination territorial Centre Val d'Oise",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/enghien-les-bains-95880/vaccination-plaine-vallee-enghien-les-bains?category=-1&cabinet=16606&specialty=496",
+      "plateforme": "Keldoc",
       "prochain_rdv": null
     },
     {

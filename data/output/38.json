@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:47:47.319285+02:00",
+  "last_updated": "2021-04-05T19:51:34.186207+02:00",
   "centres_disponibles": [
     {
       "departement": "38",
@@ -18,17 +18,31 @@
     },
     {
       "departement": "38",
+      "nom": "Centre de vaccination COVID - Centre hospitalier de Vienne - (Professionnels de sant\u00e9 uniquement)",
+      "url": "https://partners.doctolib.fr/hopital-public/vienne/centre-de-vaccination-covid-19-ch-vienne?pid=practice-165717&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-09T13:45:00.000+02:00"
+    },
+    {
+      "departement": "38",
       "nom": "Centre de vaccination du CH de Saint Marcellin",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-marcellin/centre-de-vaccination-covid-19-st-marcellin-vercors-isere-communaute?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-12T14:10:00.000+02:00"
+      "prochain_rdv": "2021-04-13T09:35:00.000+02:00"
+    },
+    {
+      "departement": "38",
+      "nom": "Communaut\u00e9 professionnelle territoriale de sant\u00e9 (CPTS) Sud est Grenoblois - Salle des f\u00eates",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/eybens-80000/cpts-sud-est-grenoblois/centre-de-vaccination-du-cpts-sud-est-grenoblois",
+      "plateforme": "Keldoc",
+      "prochain_rdv": "2021-04-13T12:35:00.000000+0200"
     },
     {
       "departement": "38",
       "nom": "Centre de vaccination de St Etienne de St Geoirs - Grenoble Air Parc",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/saint-etienne-de-saint-geoirs/centre-vaccination-de-la-bievre?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-15T08:50:00.000+02:00"
+      "prochain_rdv": "2021-04-15T09:15:00.000+02:00"
     },
     {
       "departement": "38",
@@ -50,6 +64,13 @@
       "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/le-versoud-38420/salle-polyvalente-le-versoud/centre-de-vaccination-de-la-salle-polyvalente-le-versoud",
       "plateforme": "Keldoc",
       "prochain_rdv": "2021-04-20T13:20:00.000000+0200"
+    },
+    {
+      "departement": "38",
+      "nom": "Centre de vaccination \u00e0 la Maison de sant\u00e9 pluridisciplinaire (MSP) Montalieu",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montalieu-vercieu/centre-de-vaccination-msp-de-montalieu-vercieu?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-29T11:50:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -90,13 +111,6 @@
     },
     {
       "departement": "38",
-      "nom": "Communaut\u00e9 professionnelle territoriale de sant\u00e9 (CPTS) Sud est Grenoblois - Salle des f\u00eates",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/eybens-80000/cpts-sud-est-grenoblois/centre-de-vaccination-du-cpts-sud-est-grenoblois",
-      "plateforme": null,
-      "prochain_rdv": null
-    },
-    {
-      "departement": "38",
       "nom": "Centre de vaccination  Communaut\u00e9 professionnelle territoriale de sant\u00e9 (CPTS) Vercors",
       "url": "https://vaccination-covid.keldoc.com/vaccination-covid19/villard-de-lans-38250/equipe-de-vaccination-centre-de-vaccination-du-vercors?agenda=51417&motive=81974&category=-1&cabinet=16698",
       "plateforme": null,
@@ -125,13 +139,6 @@
     },
     {
       "departement": "38",
-      "nom": "Centre de vaccination de Grenoble - Centre d\u00e9partemental de sant\u00e9",
-      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/grenoble-38000/centre-departemental-de-sante-du-chu-grenoble/centre-departemental-de-sante-du-chu-grenoble",
-      "plateforme": "Keldoc",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "38",
       "nom": "Centre de vaccinations Nationales et Internationales de la ville de Grenoble",
       "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/grenoble-38000/centre-national-et-international-de-la-ville-de-grenoble/centre-de-vaccination-du-centre-national-et-international-de-la-ville-de-grenoble",
       "plateforme": "Keldoc",
@@ -139,16 +146,9 @@
     },
     {
       "departement": "38",
-      "nom": "Centre de vaccination COVID - Centre hospitalier de Vienne - (Professionnels de sant\u00e9 uniquement)",
-      "url": "https://partners.doctolib.fr/hopital-public/vienne/centre-de-vaccination-covid-19-ch-vienne?pid=practice-165717&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "38",
-      "nom": "Centre de vaccination \u00e0 la Maison de sant\u00e9 pluridisciplinaire (MSP) Montalieu",
-      "url": "https://partners.doctolib.fr/centre-de-sante/montalieu-vercieu/centre-de-vaccination-msp-de-montalieu-vercieu?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "Centre de vaccination de Grenoble - Centre d\u00e9partemental de sant\u00e9",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/grenoble-38000/centre-departemental-de-sante-du-chu-grenoble/centre-departemental-de-sante-du-chu-grenoble",
+      "plateforme": "Keldoc",
       "prochain_rdv": null
     }
   ]

@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:47:47.318808+02:00",
+  "last_updated": "2021-04-05T19:51:34.185961+02:00",
   "centres_disponibles": [
     {
       "departement": "13",
-      "nom": "Centre de vaccination Gardanne",
-      "url": "https://partners.doctolib.fr/centre-de-sante/gardanne/centre-de-vaccination-gardanne-cpts-provence-sante?pid=practice-165090?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de Vaccination COVID d\u2019Aubagne / Espace des Libert\u00e9s AUBAGNE ",
+      "url": "https://partners.doctolib.fr/hopital-public/aubagne/centre-de-vaccination-covid-ch-aubagne-espace-des-libertes?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-07T19:30:00.000+02:00"
+      "prochain_rdv": "2021-04-07T14:57:00.000+02:00"
     },
     {
       "departement": "13",
@@ -15,6 +15,20 @@
       "url": "https://partners.doctolib.fr/centre-de-sante/la-ciotat/centre-de-vaccination-covid-paul-eluard?pid=practice-165767&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": "2021-04-08T09:15:00.000+02:00"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination Gardanne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/gardanne/centre-de-vaccination-gardanne-cpts-provence-sante?pid=practice-165090?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-09T17:30:00.000+02:00"
+    },
+    {
+      "departement": "13",
+      "nom": "CPTS Aix Ste Victoire / Gymnase du Val de l'Arc",
+      "url": "https://partners.doctolib.fr/centre-de-sante/aix-en-provence/centre-de-vaccination-covid19-de-la-ville-d-aix-en-provence?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-11T18:50:00.000+02:00"
     },
     {
       "departement": "13",
@@ -90,6 +104,13 @@
     },
     {
       "departement": "13",
+      "nom": "ALPILLIUM ST REMY DE PROVENCE/CPTS PAYS D'ARLES",
+      "url": "https://www.maiia.com/centre-de-vaccination/13210-saint-remy-de-provence/centre-de-vaccination-alpilium-saint-remy-de-provence---cpts-pays-d-arles",
+      "plateforme": "Maiia",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "13",
       "nom": "CP - LUYNES / Centre P\u00e9nitentiaire d'Aix-Luynes",
       "url": "",
       "plateforme": "Autre",
@@ -132,13 +153,6 @@
     },
     {
       "departement": "13",
-      "nom": "ALPILLIUM ST REMY DE PROVENCE/CPTS PAYS D'ARLES",
-      "url": "https://www.maiia.com/centre-de-vaccination/13210-saint-remy-de-provence/centre-de-vaccination-alpilium-saint-remy-de-provence---cpts-pays-d-arles",
-      "plateforme": "Maiia",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "13",
       "nom": "Centre vaccination CESAM 13",
       "url": "",
       "plateforme": "Autre",
@@ -167,16 +181,16 @@
     },
     {
       "departement": "13",
-      "nom": "Centre de vaccination Durance Sud Meyrargues",
-      "url": "Doctolib",
-      "plateforme": "Autre",
+      "nom": "Centre Vaccination Arenc",
+      "url": "https://partners.doctolib.fr/centre-de-sante/marseille/centre-de-vaccination-covid-arenc?pid=practice-176820&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "13",
-      "nom": "Centre Vaccination Arenc",
-      "url": "https://partners.doctolib.fr/centre-de-sante/marseille/centre-de-vaccination-covid-arenc?pid=practice-176820&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "Centre de vaccination Durance Sud Meyrargues",
+      "url": "Doctolib",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
@@ -258,22 +272,8 @@
     },
     {
       "departement": "13",
-      "nom": "CPTS Aix Ste Victoire / Gymnase du Val de l'Arc",
-      "url": "https://partners.doctolib.fr/centre-de-sante/aix-en-provence/centre-de-vaccination-covid19-de-la-ville-d-aix-en-provence?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "13",
       "nom": "APHM H\u00f4pital Sainte Marguerite",
       "url": "https://partners.doctolib.fr/hopital-public/marseille/vaccinationcovidaphm?pid=practice-162148&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "13",
-      "nom": "Centre de Vaccination COVID d\u2019Aubagne / Espace des Libert\u00e9s AUBAGNE ",
-      "url": "https://partners.doctolib.fr/hopital-public/aubagne/centre-de-vaccination-covid-ch-aubagne-espace-des-libertes?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -314,20 +314,6 @@
     },
     {
       "departement": "13",
-      "nom": "Centre de vaccination de l'H\u00f4pital d'Instruction des Arm\u00e9es Laveran",
-      "url": "Doctolib",
-      "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "13",
-      "nom": "Clinique de Vitrolles (R\u00e9serv\u00e9 aux professionnels de sant\u00e9 lib\u00e9raux)",
-      "url": "https://partners.doctolib.fr/clinique-privee/vitrolles/clinique-de-vitrolles-centre-de-vaccination-covid-19?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "13",
       "nom": "Clinique g\u00e9n\u00e9rale de Marignane",
       "url": "https://partners.doctolib.fr/clinique-privee/marignane/centre-de-vaccination-covid-19-clinique-generale-de-marignane?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -335,9 +321,23 @@
     },
     {
       "departement": "13",
+      "nom": "Centre de vaccination de l'H\u00f4pital d'Instruction des Arm\u00e9es Laveran",
+      "url": "Doctolib",
+      "plateforme": "Autre",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "13",
       "nom": "Centre de vaccination de Ch\u00e2teaurenard",
       "url": "https://www.maiia.com/centre-de-vaccination/13160-chateaurenard/centre-de-vaccination-covid---chateaurenard-de-provence",
-      "plateforme": null,
+      "plateforme": "Maiia",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "13",
+      "nom": "Clinique de Vitrolles (R\u00e9serv\u00e9 aux professionnels de sant\u00e9 lib\u00e9raux)",
+      "url": "https://partners.doctolib.fr/clinique-privee/vitrolles/clinique-de-vitrolles-centre-de-vaccination-covid-19?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {

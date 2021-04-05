@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:47:47.318748+02:00",
+  "last_updated": "2021-04-05T19:51:34.185905+02:00",
   "centres_disponibles": [
     {
       "departement": "07",
@@ -21,14 +21,14 @@
       "nom": "Centre de Vaccination de la CPTS sud Ard\u00e8che C\u00e9vennes ",
       "url": "https://partners.doctolib.fr/hopital-public/les-vans/relai-de-proximite-du-centre-hospitalier-des-cevennes-ardechoises?pid=practice-167899&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-23T14:50:00.000+02:00"
+      "prochain_rdv": "2021-04-23T15:00:00.000+02:00"
     },
     {
       "departement": "07",
       "nom": "Centre de vaccination du CH d'Aubenas - Maison m\u00e9dicale de garde",
       "url": "https://partners.doctolib.fr/hopital-public/aubenas/centre-de-vaccination-covid-ch-d-ardeche-meridionale?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-03T09:40:00.000+02:00"
+      "prochain_rdv": "2021-05-03T09:45:00.000+02:00"
     }
   ],
   "centres_indisponibles": [

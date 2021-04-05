@@ -1,15 +1,8 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:47:47.319935+02:00",
+  "last_updated": "2021-04-05T19:51:34.186584+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
-    {
-      "departement": "77",
-      "nom": "GHEF-site CH Coulommiers",
-      "url": "https://partners.doctolib.fr/hopital-public/meaux/ghef-centre-de-vaccination-covid-reserve-aux-professionnels-de-sante-de-ville?pid=practice-162149&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
     {
       "departement": "77",
       "nom": "GHEF-Site de Jossigny",
@@ -19,9 +12,9 @@
     },
     {
       "departement": "77",
-      "nom": "CHSSM-Site de Nemours",
-      "url": "",
-      "plateforme": "Autre",
+      "nom": "GHEF-site CH Coulommiers",
+      "url": "https://partners.doctolib.fr/hopital-public/meaux/ghef-centre-de-vaccination-covid-reserve-aux-professionnels-de-sante-de-ville?pid=practice-162149&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
@@ -29,6 +22,13 @@
       "nom": "GHEF-Site CH Meaux",
       "url": "https://partners.doctolib.fr/hopital-public/meaux/ghef-centre-de-vaccination-covid-reserve-aux-professionnels-de-sante-de-ville?pid=practice-162173&enable_cookies_consent=1",
       "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "77",
+      "nom": "CHSSM-Site de Nemours",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
@@ -96,16 +96,16 @@
     },
     {
       "departement": "77",
-      "nom": "EMV Thomery",
-      "url": "",
-      "plateforme": "Autre",
+      "nom": "EMV Torcy",
+      "url": "https://partners.doctolib.fr/centre-de-sante/torcy/point-de-vaccination-avance-de-torcy?pid=practice-173895&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "77",
-      "nom": "EMV Torcy",
-      "url": "https://partners.doctolib.fr/centre-de-sante/torcy/point-de-vaccination-avance-de-torcy?pid=practice-173895&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "EMV Thomery",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:47:47.319014+02:00",
+  "last_updated": "2021-04-05T19:51:34.186044+02:00",
   "centres_disponibles": [
     {
       "departement": "22",
@@ -21,7 +21,14 @@
       "nom": "ST BRIEUC - Salle Robien",
       "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/st-brieuc-22000/robien-saint-brieuc/centre-de-vaccination-de-robien-saint-brieuc",
       "plateforme": "Keldoc",
-      "prochain_rdv": "2021-04-23T10:25:00.000000+0200"
+      "prochain_rdv": "2021-04-22T14:35:00.000000+0200"
+    },
+    {
+      "departement": "22",
+      "nom": "LAMBALLE - Salle municipale",
+      "url": "https://vaccination-covid.keldoc.com/maison-de-sante/lamballe-22400/lamballe/centre-de-vaccination-lamballe-salle-municipale-lamballe",
+      "plateforme": "Keldoc",
+      "prochain_rdv": "2021-04-26T16:30:00.000000+0200"
     }
   ],
   "centres_indisponibles": [
@@ -34,16 +41,16 @@
     },
     {
       "departement": "22",
-      "nom": "ROSTRENEN - Salle des f\u00eates",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/rostrenen-22110/salle-des-fetes-rostrenen/centre-de-vaccination-de-la-salle-des-fetes-rostrenen",
-      "plateforme": "Keldoc",
+      "nom": "DINAN - Centre des congr\u00e8s",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/saint-malo-et-dinan/gh-rance-emeraude-vaccination-covid?pid=practice-164881&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "22",
-      "nom": "DINAN - Centre des congr\u00e8s",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/saint-malo-et-dinan/gh-rance-emeraude-vaccination-covid?pid=practice-164881&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "ROSTRENEN - Salle des f\u00eates",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/rostrenen-22110/salle-des-fetes-rostrenen/centre-de-vaccination-de-la-salle-des-fetes-rostrenen",
+      "plateforme": "Keldoc",
       "prochain_rdv": null
     },
     {
@@ -65,13 +72,6 @@
       "nom": "Gymnase Kerraoul 2",
       "url": "https://www.keldoc.com/vaccination-covid-19/paimpol",
       "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "22",
-      "nom": "LAMBALLE - Salle municipale",
-      "url": "https://vaccination-covid.keldoc.com/maison-de-sante/lamballe-22400/lamballe/centre-de-vaccination-lamballe-salle-municipale-lamballe",
-      "plateforme": "Keldoc",
       "prochain_rdv": null
     },
     {
@@ -104,15 +104,15 @@
     },
     {
       "departement": "22",
-      "nom": "GUINGAMP - Centre social",
-      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/guingamp-22200/guingamp/centre-de-vaccination-guingamp-centre-social-guingamp",
+      "nom": "PLEUMEUR BODOU - PHOENIX",
+      "url": "https://vaccination-covid.keldoc.com/maison-de-sante/pleumeur-bodou-22560/centre-de-vaccination-ephemere-sdis-pleumeur-bodou/centre-de-vaccination-ephemere-sdis-lannion?category=-1&cabinet=17301&specialty=496",
       "plateforme": "Keldoc",
       "prochain_rdv": null
     },
     {
       "departement": "22",
-      "nom": "PLEUMEUR BODOU - PHOENIX",
-      "url": "https://vaccination-covid.keldoc.com/maison-de-sante/pleumeur-bodou-22560/centre-de-vaccination-ephemere-sdis-pleumeur-bodou/centre-de-vaccination-ephemere-sdis-lannion?category=-1&cabinet=17301&specialty=496",
+      "nom": "GUINGAMP - Centre social",
+      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/guingamp-22200/guingamp/centre-de-vaccination-guingamp-centre-social-guingamp",
       "plateforme": "Keldoc",
       "prochain_rdv": null
     },

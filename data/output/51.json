@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:47:47.319424+02:00",
+  "last_updated": "2021-04-05T19:51:34.186334+02:00",
   "centres_disponibles": [
     {
       "departement": "51",
       "nom": "Centre de vaccination de Cernay-les-Reims - Salle de La Marelle",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/reims/centres-de-vaccination-grand-reims?pid=practice-164806&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-16T09:55:00.000+02:00"
+      "prochain_rdv": "2021-04-15T10:30:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -55,6 +55,13 @@
     },
     {
       "departement": "51",
+      "nom": "Centre de vaccination de Sermaize les Bains, Maison m\u00e9dicale",
+      "url": "https://partners.doctolib.fr/centre-de-sante/mermeze/centre-de-vaccination-covid-19-de-mermeze?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "51",
       "nom": "MA - US1 / Maison d'Arr\u00eat de Ch\u00e2lons-en-Champagne",
       "url": "",
       "plateforme": "Autre",
@@ -65,13 +72,6 @@
       "nom": "MA - US REIMS / Maison d'Arr\u00eat de Reims",
       "url": "",
       "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "51",
-      "nom": "Centre de vaccination de Sermaize les Bains, Maison m\u00e9dicale",
-      "url": "https://partners.doctolib.fr/centre-de-sante/mermeze/centre-de-vaccination-covid-19-de-mermeze?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {

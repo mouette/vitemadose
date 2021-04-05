@@ -1,13 +1,27 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:47:47.319208+02:00",
+  "last_updated": "2021-04-05T19:51:34.186135+02:00",
   "centres_disponibles": [
     {
       "departement": "30",
       "nom": "CHU N\u00eemes",
       "url": "https://partners.doctolib.fr/hopital-public/nimes/chu-nimes-vaccination-covid-19?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-21T07:45:00.000+02:00"
+      "prochain_rdv": "2021-04-21T07:30:00.000+02:00"
+    },
+    {
+      "departement": "30",
+      "nom": "Centre Al\u00e8s Fil",
+      "url": "https://partners.doctolib.fr/centre-de-sante/ales/centre-de-vaccination-covid-19-ales?pid=practice-165321&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-29T16:10:00.000+02:00"
+    },
+    {
+      "departement": "30",
+      "nom": "Centre de vaccination La Prairie",
+      "url": "https://partners.doctolib.fr/centre-de-sante/ales/centre-de-vaccination-covid-19-ales?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-29T16:10:00.000+02:00"
     },
     {
       "departement": "30",
@@ -15,20 +29,6 @@
       "url": "https://partners.doctolib.fr/centre-de-sante/bellegarde/centre-de-vaccination-de-bellegarde-les-cigales?pid=practice-177312&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": "2021-05-05T15:40:00.000+02:00"
-    },
-    {
-      "departement": "30",
-      "nom": "Centre Al\u00e8s Fil",
-      "url": "https://partners.doctolib.fr/centre-de-sante/ales/centre-de-vaccination-covid-19-ales?pid=practice-165321&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-11T10:15:00.000+02:00"
-    },
-    {
-      "departement": "30",
-      "nom": "Centre de vaccination La Prairie",
-      "url": "https://partners.doctolib.fr/centre-de-sante/ales/centre-de-vaccination-covid-19-ales?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-11T10:15:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -48,15 +48,15 @@
     },
     {
       "departement": "30",
-      "nom": "Centre MSP le PRISME",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/remoulins/msp-le-prisme-vaccination-covid?pid=practice-171375&enable_cookies_consent=1",
+      "nom": "centre Costi\u00e8res CPTS N\u00eemes",
+      "url": "https://partners.doctolib.fr/centre-de-sante/nimes/centre-de-vaccination-ville-de-nimes?pid=practice-166788&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "30",
-      "nom": "centre Costi\u00e8res CPTS N\u00eemes",
-      "url": "https://partners.doctolib.fr/centre-de-sante/nimes/centre-de-vaccination-ville-de-nimes?pid=practice-166788&enable_cookies_consent=1",
+      "nom": "Centre MSP le PRISME",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/remoulins/msp-le-prisme-vaccination-covid?pid=practice-171375&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

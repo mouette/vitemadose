@@ -1,20 +1,27 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:47:47.319688+02:00",
+  "last_updated": "2021-04-05T19:51:34.186504+02:00",
   "centres_disponibles": [
     {
       "departement": "69",
       "nom": "Centre de vaccination - Palais des sports de Gerland /Hospices Civils de Lyon",
       "url": "https://partners.doctolib.fr/hopital-public/lyon/palais-des-sports-gerland-hcl-vaccination-covid?pid=practice-163661&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-06T11:40:00.000+02:00"
+      "prochain_rdv": "2021-04-13T09:50:00.000+02:00"
     },
     {
       "departement": "69",
       "nom": "Centre de vaccination de Villeurbanne- salle du CCVA",
       "url": "https://partners.doctolib.fr/centre-de-sante/villeurbanne/centre-de-vaccination-covid-19-villeurbanne?pid=practice-173261&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-21T14:45:00.000+02:00"
+      "prochain_rdv": "2021-04-21T14:35:00.000+02:00"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination de la communaut\u00e9 professionnelle territoriale de sant\u00e9  -  Salle Jacques Anquetil de Genas",
+      "url": "https://partners.doctolib.fr/centre-de-sante/genas/centre-de-vaccination-cpst-salle-polyvalente-genas?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-21T19:00:00.000+02:00"
     },
     {
       "departement": "69",
@@ -125,16 +132,16 @@
     },
     {
       "departement": "69",
-      "nom": "Equipe mobile du CDHS",
-      "url": "",
-      "plateforme": "Autre",
+      "nom": "Centre de vaccination d'Arnas - Espace sportif de l'Escale ",
+      "url": "https://partners.doctolib.fr/centre-de-sante/arnas/centre-de-vaccination-covid-19-l-escale-arnas?pid=practice-180202&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination d'Arnas - Espace sportif de l'Escale ",
-      "url": "https://partners.doctolib.fr/centre-de-sante/arnas/centre-de-vaccination-covid-19-l-escale-arnas?pid=practice-180202&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "Equipe mobile du CDHS",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
@@ -153,13 +160,6 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination de la communaut\u00e9 professionnelle territoriale de sant\u00e9  -  Salle Jacques Anquetil de Genas",
-      "url": "https://partners.doctolib.fr/centre-de-sante/genas/centre-de-vaccination-cpst-salle-polyvalente-genas?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "69",
       "nom": "Centre de vaccination de Beauvallon - Salle des Varennes ",
       "url": "",
       "plateforme": "Autre",
@@ -167,8 +167,8 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination de l'H\u00f4pital Nord-Ouest-Villefranche - H\u00f4pital de Gleiz\u00e9",
-      "url": "https://partners.doctolib.fr/hopital-public/villefranche-sur-saone/centre-de-vaccination-covid-villefranche-hopital-nord-ouest?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination -H\u00f4pital Edouard Herriot-HCL",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-edouard-herriot-hcl-vaccination-covid?pid=practice-163794&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -181,8 +181,8 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination -H\u00f4pital Edouard Herriot-HCL",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-edouard-herriot-hcl-vaccination-covid?pid=practice-163794&enable_cookies_consent=1",
+      "nom": "Centre de vaccination de l'H\u00f4pital Nord-Ouest-Villefranche - H\u00f4pital de Gleiz\u00e9",
+      "url": "https://partners.doctolib.fr/hopital-public/villefranche-sur-saone/centre-de-vaccination-covid-villefranche-hopital-nord-ouest?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -251,15 +251,15 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination -H\u00f4pital Lyon sud - HCL",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-lyon-sud-hcl-vaccination-covid?pid=practice-163795&enable_cookies_consent=1",
+      "nom": "Centre de vaccination -H\u00f4pital Pierre Wertheimer - HCL",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-pierre-wertheimer-hcl-vaccination-covid?pid=practice-163796&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination -H\u00f4pital Pierre Wertheimer - HCL",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-pierre-wertheimer-hcl-vaccination-covid?pid=practice-163796&enable_cookies_consent=1",
+      "nom": "Centre de vaccination -H\u00f4pital Lyon sud - HCL",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-lyon-sud-hcl-vaccination-covid?pid=practice-163795&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     }
