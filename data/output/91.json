@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:51:34.186818+02:00",
-  "centres_disponibles": [],
+  "last_updated": "2021-04-05T19:55:22.656138+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "91",
+      "nom": "Annexe Gymnase St Exup\u00e9ry ",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/igny/centre-de-vaccination-covid-commune-d-igny?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-12T13:50:00.000+02:00"
+    }
+  ],
   "centres_indisponibles": [
     {
       "departement": "91",
@@ -138,16 +146,16 @@
     },
     {
       "departement": "91",
-      "nom": "Palais des sports",
-      "url": "https://partners.doctolib.fr/centre-de-sante/corbeil-essonnes/centre-de-vaccination-covid-19-corbeil-essonne?pid=practice-178964&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "Centre de Paray Vieille Poste / Morangis - Salle communale des Mimosas / Espace Saint Michel",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
       "departement": "91",
-      "nom": "Centre de Paray Vieille Poste / Morangis - Salle communale des Mimosas / Espace Saint Michel",
-      "url": "",
-      "plateforme": "Autre",
+      "nom": "Palais des sports",
+      "url": "https://partners.doctolib.fr/centre-de-sante/corbeil-essonnes/centre-de-vaccination-covid-19-corbeil-essonne?pid=practice-178964&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
@@ -187,22 +195,8 @@
     },
     {
       "departement": "91",
-      "nom": "Gymnase Champagne",
-      "url": "https://partners.doctolib.fr/etablissement-de-prevention/savigny-sur-orge/vaccination-covid-19-savigny-sur-orge?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "91",
       "nom": "Salle Claude Nougaro ",
       "url": "https://partners.doctolib.fr/centre-de-sante/evry-courcouronnes/centre-de-vaccination-covid-salle-claude-nougaro-reserve-aux-personnes-de-plus-de-75-ans?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "91",
-      "nom": "Salle L'astral ",
-      "url": "https://partners.doctolib.fr/centre-de-sante/montgeron/centre-de-vaccination-covid-conseil-departemental-de-l-essonne-cd91?pid=practice-165168?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -215,15 +209,15 @@
     },
     {
       "departement": "91",
-      "nom": "Annexe Gymnase St Exup\u00e9ry ",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/igny/centre-de-vaccination-covid-commune-d-igny?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Salle L'astral ",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montgeron/centre-de-vaccination-covid-conseil-departemental-de-l-essonne-cd91?pid=practice-165168?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "91",
-      "nom": "Salle des F\u00eates ",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/brunoy/centre-de-vaccination-covid-brunoy?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Gymnase Champagne",
+      "url": "https://partners.doctolib.fr/etablissement-de-prevention/savigny-sur-orge/vaccination-covid-19-savigny-sur-orge?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -231,6 +225,13 @@
       "departement": "91",
       "nom": "Espace du Val de Gif ",
       "url": "https://partners.doctolib.fr/cabinet-medical/gif-sur-yvette/centre-de-vaccination-covid-19-gif-sur-yvette?pid=practice-165182?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "91",
+      "nom": "Salle des F\u00eates ",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/brunoy/centre-de-vaccination-covid-brunoy?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -250,13 +251,6 @@
     },
     {
       "departement": "91",
-      "nom": "Complexe sportif - Jean Segalard",
-      "url": "https://partners.doctolib.fr/centre-de-sante/cerny/centre-de-vaccination-covid-19-cerny?pid=practice-165742&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "91",
       "nom": "Maison de sant\u00e9",
       "url": "https://partners.doctolib.fr/centre-de-sante/dourdan/centre-de-vaccination-covid-19-maison-de-sante-dourdan?pid=practice-165040?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -266,6 +260,13 @@
       "departement": "91",
       "nom": "Foyer Club ",
       "url": "https://partners.doctolib.fr/centre-de-sante/evry-courcouronnes/centre-de-vaccination-covid-foyer-club-reserve-aux-personnes-de-plus-de-75-ans?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "91",
+      "nom": "Complexe sportif - Jean Segalard",
+      "url": "https://partners.doctolib.fr/centre-de-sante/cerny/centre-de-vaccination-covid-19-cerny?pid=practice-165742&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

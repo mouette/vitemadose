@@ -1,14 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:51:34.186108+02:00",
+  "last_updated": "2021-04-05T19:55:22.655319+02:00",
   "centres_disponibles": [
-    {
-      "departement": "29",
-      "nom": "CH MORLAIX (anciens locaux EFS)",
-      "url": "https://partners.doctolib.fr/hopital-public/morlaix/ch-morlaix-centre-de-vaccination-covid-19-reserve-aux-professionnels-de-sante?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-08T17:35:00.000+02:00"
-    },
     {
       "departement": "29",
       "nom": "LESNEVEN - L'atelier",
@@ -22,6 +15,13 @@
       "url": "https://www.maiia.com/centre-de-vaccination/29800-landerneau/centre-de-vaccination---landerneau---lesneven",
       "plateforme": "Maiia",
       "prochain_rdv": "2021-04-14T09:05:00.000000Z"
+    },
+    {
+      "departement": "29",
+      "nom": "CH MORLAIX (anciens locaux EFS)",
+      "url": "https://partners.doctolib.fr/hopital-public/morlaix/ch-morlaix-centre-de-vaccination-covid-19-reserve-aux-professionnels-de-sante?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-14T10:10:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -90,13 +90,6 @@
     },
     {
       "departement": "29",
-      "nom": "ST RENAN - Centre culturel",
-      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/st-renan-29290/saint-renan/centre-de-vaccination-de-saint-renan",
-      "plateforme": "Keldoc",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "29",
       "nom": "CHU BREST - Site Morvan",
       "url": "https://partners.doctolib.fr/hopital-public/brest/chru-de-brest-vaccination-covid-19?pid=practice-162917&?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -106,6 +99,13 @@
       "departement": "29",
       "nom": "QUIMPER - Maison des associations",
       "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/quimper-29000/quimper/centre-de-vaccination-de-quimper",
+      "plateforme": "Keldoc",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "29",
+      "nom": "ST RENAN - Centre culturel",
+      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/st-renan-29290/saint-renan/centre-de-vaccination-de-saint-renan",
       "plateforme": "Keldoc",
       "prochain_rdv": null
     },

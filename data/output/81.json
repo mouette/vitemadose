@@ -1,20 +1,20 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:51:34.186721+02:00",
+  "last_updated": "2021-04-05T19:55:22.656032+02:00",
   "centres_disponibles": [
     {
       "departement": "81",
       "nom": "CH Castres",
       "url": "https://partners.doctolib.fr/hopital-public/castres/chic-castres-mazamet-centre-de-vaccination?speciality_id=5494&pid=practice-164002&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-06T11:10:00.000+02:00"
+      "prochain_rdv": "2021-04-06T11:40:00.000+02:00"
     },
     {
       "departement": "81",
       "nom": "CH Albi",
       "url": "https://partners.doctolib.fr/hopital-public/castres/chic-castres-mazamet-centre-de-vaccination?speciality_id=5494&pid=practice-164139&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-08T13:30:00.000+02:00"
+      "prochain_rdv": "2021-04-08T12:50:00.000+02:00"
     },
     {
       "departement": "81",
@@ -35,21 +35,21 @@
       "nom": "Centre de vaccination de Mazamet - Palais des Congr\u00e8s",
       "url": "https://partners.doctolib.fr/centre-de-sante/mazamet/centre-de-vaccination-covid-19-centre-de-vaccination-de-mazamet?pid=practice-165219&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-21T10:20:00.000+02:00"
+      "prochain_rdv": "2021-04-21T10:25:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
     {
       "departement": "81",
-      "nom": "Centre de vaccination de Graulhet - Salle le Foulon ",
-      "url": "https://partners.doctolib.fr/centre-de-sante/graulhet/centre-de-vaccination-covid-19-graulhet?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination Clinique Toulouse Lautrec",
+      "url": "https://partners.doctolib.fr/hopital-public/tarn/chic-castres-mazamet-centre-de-vaccination?speciality_id=5494&pid=practice-164870&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "81",
-      "nom": "Centre de vaccination Clinique Toulouse Lautrec",
-      "url": "https://partners.doctolib.fr/hopital-public/tarn/chic-castres-mazamet-centre-de-vaccination?speciality_id=5494&pid=practice-164870&enable_cookies_consent=1",
+      "nom": "Centre de vaccination de Graulhet - Salle le Foulon ",
+      "url": "https://partners.doctolib.fr/centre-de-sante/graulhet/centre-de-vaccination-covid-19-graulhet?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

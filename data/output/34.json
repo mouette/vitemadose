@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:51:34.186171+02:00",
+  "last_updated": "2021-04-05T19:55:22.655386+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -82,15 +82,15 @@
     },
     {
       "departement": "34",
-      "nom": "MONTPELLIER Centre vaccination \u00e0 la Clinique du Mill\u00e9naire",
-      "url": "https://partners.doctolib.fr/clinique-privee/montpellier/oc-sante-clinique-du-millenaire-vaccination-covid?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "MONTPELLIER Maison m\u00e9dicale de garde",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/montpellier/centre-de-vaccination-covid-19-maison-medicale-de-garde-jean-bouyer?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "34",
-      "nom": "MONTPELLIER Maison m\u00e9dicale de garde",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/montpellier/centre-de-vaccination-covid-19-maison-medicale-de-garde-jean-bouyer?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "MONTPELLIER Centre vaccination \u00e0 la Clinique du Mill\u00e9naire",
+      "url": "https://partners.doctolib.fr/clinique-privee/montpellier/oc-sante-clinique-du-millenaire-vaccination-covid?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

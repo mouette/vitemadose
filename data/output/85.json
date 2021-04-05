@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:51:34.186761+02:00",
+  "last_updated": "2021-04-05T19:55:22.656077+02:00",
   "centres_disponibles": [
     {
       "departement": "85",
       "nom": "Centre de vaccination COVID - LA ROCHE SUR YON - Petite salle des f\u00eates du Bourg-sous-la Roche",
       "url": "https://partners.doctolib.fr/maison-de-sante/la-roche-sur-yon/centre-de-vaccination-de-la-la-roche-sur-yon?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-29T16:10:00.000+02:00"
+      "prochain_rdv": "2021-04-29T15:55:00.000+02:00"
     }
   ],
   "centres_indisponibles": [

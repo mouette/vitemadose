@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:51:34.186850+02:00",
+  "last_updated": "2021-04-05T19:55:22.656172+02:00",
   "centres_disponibles": [
     {
       "departement": "94",
       "nom": "BONNEUIL SUR MARNE",
       "url": "https://www.maiia.com/centre-de-vaccination/94380-bonneuil-sur-marne/-centre-de-vaccination---espace-louise-voelckel",
       "plateforme": "Maiia",
-      "prochain_rdv": "2021-04-06T09:25:00.000000Z"
+      "prochain_rdv": "2021-04-06T13:05:00.000000Z"
     },
     {
       "departement": "94",
@@ -153,8 +153,8 @@
     },
     {
       "departement": "94",
-      "nom": "CENTRE NOGENT SUR MARNE",
-      "url": "https://partners.doctolib.fr/centre-de-sante/nogent-sur-marne/accueil-ambulatoire-de-recours-ville-de-nogent-sur-marne-adp94?pid=practice-123104&enable_cookies_consent=1",
+      "nom": "CENTRE SAINT-MANDE",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/saint-mand\u00e9/centre-de-vaccinations-covid-saint-mande?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -167,15 +167,15 @@
     },
     {
       "departement": "94",
-      "nom": "CENTRE SAINT-MANDE",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/saint-mand\u00e9/centre-de-vaccinations-covid-saint-mande?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "H\u00f4pital des Arm\u00e9es B\u00e9gin",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-mande/centre-de-vaccination-covid-19-hopital-des-armees-begin?pid=practice-178732&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "94",
-      "nom": "H\u00f4pital des Arm\u00e9es B\u00e9gin",
-      "url": "https://partners.doctolib.fr/hopital-public/saint-mande/centre-de-vaccination-covid-19-hopital-des-armees-begin?pid=practice-178732&enable_cookies_consent=1",
+      "nom": "CENTRE NOGENT SUR MARNE",
+      "url": "https://partners.doctolib.fr/centre-de-sante/nogent-sur-marne/accueil-ambulatoire-de-recours-ville-de-nogent-sur-marne-adp94?pid=practice-123104&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -188,15 +188,15 @@
     },
     {
       "departement": "94",
-      "nom": "CENTRE SAINT MAUR DES FOSSES",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-maur-des-foss\u00e9s/centre-de-vaccination-de-saint-maur-des-fosses?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre d'ORLY",
+      "url": "https://partners.doctolib.fr/centre-de-sante/orly/centre-vaccination-covid-cms-orly?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "94",
-      "nom": "Centre d'ORLY",
-      "url": "https://partners.doctolib.fr/centre-de-sante/orly/centre-vaccination-covid-cms-orly?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "CENTRE SAINT MAUR DES FOSSES",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-maur-des-foss\u00e9s/centre-de-vaccination-de-saint-maur-des-fosses?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

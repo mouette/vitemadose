@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:51:34.186544+02:00",
+  "last_updated": "2021-04-05T19:55:22.655782+02:00",
   "centres_disponibles": [
     {
       "departement": "73",
@@ -14,21 +14,21 @@
       "nom": "Centre de vaccination COVID - Bourg Saint Maurice",
       "url": "https://partners.doctolib.fr/centre-de-sante/bourg-saint-maurice/centre-de-vaccination-bourg-saint-maurice?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-08T15:45:00.000+02:00"
+      "prochain_rdv": "2021-04-08T15:50:00.000+02:00"
     },
     {
       "departement": "73",
       "nom": "Centre de vaccination COVID - MOUTIERS",
       "url": "https://partners.doctolib.fr/hopital-public/moutiers/centre-de-vaccination-covid-de-moutiers?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-09T16:20:00.000+02:00"
+      "prochain_rdv": "2021-04-09T16:25:00.000+02:00"
     },
     {
       "departement": "73",
       "nom": "Centre de vaccination COVID Ad Hoc de Lescheraines",
       "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-29T15:10:00.000+02:00"
+      "prochain_rdv": "2021-04-29T11:00:00.000+02:00"
     }
   ],
   "centres_indisponibles": [

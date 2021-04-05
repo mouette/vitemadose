@@ -1,20 +1,20 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:51:34.186379+02:00",
+  "last_updated": "2021-04-05T19:55:22.655608+02:00",
   "centres_disponibles": [
     {
       "departement": "55",
       "nom": "Centre de vaccination de Bar-le-Duc (Salle Dumas) (Equipe mixte CH/m\u00e9decine de ville)",
       "url": "https://partners.doctolib.fr/hopital-public/bar-le-duc/centre-de-vaccination-covid-19-ch-bar-le-duc?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-12T15:20:00.000+02:00"
+      "prochain_rdv": "2021-04-12T14:40:00.000+02:00"
     },
     {
       "departement": "55",
       "nom": "Centre de vaccination de Verdun (Salle Cassin) (Equipe mixte CH/m\u00e9decine de ville)",
       "url": "https://partners.doctolib.fr/hopital-public/verdun/centre-de-vaccination-covid-19-ch-verdun?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-12T15:45:00.000+02:00"
+      "prochain_rdv": "2021-04-12T14:50:00.000+02:00"
     },
     {
       "departement": "55",
@@ -55,15 +55,15 @@
     },
     {
       "departement": "55",
-      "nom": "Lieu de vaccination FRESNES EN WOEVRE - MSP",
-      "url": "https://www.maiia.com/centre-de-vaccination/55160-fresnes-en-woevre/centre-de-vaccination---fresnes-en-woevre",
+      "nom": "Lieu de vaccination de COMMERCY (salle du Marlat)",
+      "url": "https://www.maiia.com/centre-de-vaccination/55200-commercy/centre-de-vaccination---commercy",
       "plateforme": "Maiia",
       "prochain_rdv": null
     },
     {
       "departement": "55",
-      "nom": "Lieu de vaccination de COMMERCY (salle du Marlat)",
-      "url": "https://www.maiia.com/centre-de-vaccination/55200-commercy/centre-de-vaccination---commercy",
+      "nom": "Lieu de vaccination FRESNES EN WOEVRE - MSP",
+      "url": "https://www.maiia.com/centre-de-vaccination/55160-fresnes-en-woevre/centre-de-vaccination---fresnes-en-woevre",
       "plateforme": "Maiia",
       "prochain_rdv": null
     },
@@ -83,13 +83,6 @@
     },
     {
       "departement": "55",
-      "nom": "Lieu de vaccination de DIEUE SUR MEUSE",
-      "url": "https://www.maiia.com/centre-de-vaccination/55320-dieue-sur-meuse/centre-de-vaccination---dieue-sur-meuse",
-      "plateforme": "Maiia",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "55",
       "nom": "Lieu de vaccination de VIGNEULLES (Maison de sant\u00e9)",
       "url": "https://www.maiia.com/centre-de-vaccination/55210-vigneulles-les-hattonchatel/centre-de-vaccination---vigneulles-les-hattonchatel--",
       "plateforme": "Maiia",
@@ -99,6 +92,13 @@
       "departement": "55",
       "nom": "Lieu de vaccination de Pierrefitte-sur-Aire",
       "url": "https://www.maiia.com/centre-de-vaccination/55260-pierrefitte-sur-aire/centre-de-vaccination---pierrefitte-sur-aire",
+      "plateforme": "Maiia",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "55",
+      "nom": "Lieu de vaccination de DIEUE SUR MEUSE",
+      "url": "https://www.maiia.com/centre-de-vaccination/55320-dieue-sur-meuse/centre-de-vaccination---dieue-sur-meuse",
       "plateforme": "Maiia",
       "prochain_rdv": null
     },

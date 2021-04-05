@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:51:34.186397+02:00",
+  "last_updated": "2021-04-05T19:55:22.655627+02:00",
   "centres_disponibles": [
     {
       "departement": "57",
       "nom": "Centre de vaccination de Thionville - Clinique Notre-Dame",
       "url": "https://partners.doctolib.fr/clinique-privee/thionville/centre-de-vaccination-thionville-elsan?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-22T13:40:00.000+02:00"
+      "prochain_rdv": "2021-04-22T15:16:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -34,15 +34,15 @@
     },
     {
       "departement": "57",
-      "nom": "Centre de vaccination de Bitche - H\u00f4pital Saint Joseph",
-      "url": "https://partners.doctolib.fr/hopital-public/sarreguemines/centre-de-vaccination-covid-19-du-ch-de-sarreguemines?pid=practice-173166&enable_cookies_consent=1",
+      "nom": "Centre de vaccination de Dieuze",
+      "url": "https://partners.doctolib.fr/hopital-public/chateau-salins/centre-de-vaccination-covid-19-hopital-de-chateau-salins?pid=practice-172748&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "57",
-      "nom": "Centre de vaccination de Dieuze",
-      "url": "https://partners.doctolib.fr/hopital-public/chateau-salins/centre-de-vaccination-covid-19-hopital-de-chateau-salins?pid=practice-172748&enable_cookies_consent=1",
+      "nom": "Centre de vaccination de Bitche - H\u00f4pital Saint Joseph",
+      "url": "https://partners.doctolib.fr/hopital-public/sarreguemines/centre-de-vaccination-covid-19-du-ch-de-sarreguemines?pid=practice-173166&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -167,13 +167,6 @@
     },
     {
       "departement": "57",
-      "nom": "Centre de vaccination de Forbach - CHIC Unisant\u00e9",
-      "url": "https://partners.doctolib.fr/hopital-public/forbach/centre-de-vaccination-covid-19-public-de-forbach?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "57",
       "nom": "Centre de vaccination de Mercy - MHRMT Maison des usagers (niveau 2 zone A)",
       "url": "https://partners.doctolib.fr/hopital-public/metz/chr-de-metz-vaccination-covid?pid=practice-163721&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -183,6 +176,13 @@
       "departement": "57",
       "nom": "Centre de vaccination de Thionville - CHRMT Bel Air (salle polyvalente \u00e0 l\u2019entr\u00e9e de l\u2019h\u00f4pital)",
       "url": "https://partners.doctolib.fr/hopital-public/metz/chr-de-metz-vaccination-covid?pid=practice-163720&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "57",
+      "nom": "Centre de vaccination de Forbach - CHIC Unisant\u00e9",
+      "url": "https://partners.doctolib.fr/hopital-public/forbach/centre-de-vaccination-covid-19-public-de-forbach?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

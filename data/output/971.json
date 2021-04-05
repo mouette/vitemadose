@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:51:34.186872+02:00",
+  "last_updated": "2021-04-05T19:55:22.656196+02:00",
   "centres_disponibles": [
     {
       "departement": "971",
@@ -28,7 +28,7 @@
       "nom": "Centre Hospitalier Louis Constant Fleming",
       "url": "https://partners.doctolib.fr/hopital-public/saint-martin/centre-de-vaccination-covid-19-ch-louis-constant-fleming-saint-martin?pid=practice-166932&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-19T13:00:00.000+02:00"
+      "prochain_rdv": "2021-04-19T13:45:00.000+02:00"
     },
     {
       "departement": "971",

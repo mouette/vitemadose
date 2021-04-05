@@ -1,20 +1,20 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:51:34.186180+02:00",
+  "last_updated": "2021-04-05T19:55:22.655396+02:00",
   "centres_disponibles": [
     {
       "departement": "35",
       "nom": "RETIERS-Salle poly",
       "url": "https://www.maiia.com/centre-de-vaccination/35240-retiers/centre-de-vaccination-territorial-de-retiers-",
       "plateforme": "Maiia",
-      "prochain_rdv": "2021-04-12T16:40:00.000000Z"
+      "prochain_rdv": "2021-04-12T16:45:00.000000Z"
     },
     {
       "departement": "35",
       "nom": "35-Grand centre Stade Robert Poirier",
       "url": "https://partners.doctolib.fr/centre-de-sante/ile-et-vilaine/centre-de-vaccination-covid-19-vaccimobile-35-ars-communes-ile-et-vilaine?pid=practice-178662&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-14T09:40:00.000+02:00"
+      "prochain_rdv": "2021-04-13T12:50:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -30,13 +30,6 @@
       "nom": "DOL DE BGNE-Club de l'amiti\u00e9",
       "url": "https://partners.doctolib.fr/centre-de-sante/dol-de-bretagne/centre-de-vaccination-dol-de-bretagne?pid=practice-165293&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "35",
-      "nom": "BAIN DE BGNE-La Croix Rouge",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/bain-de-bretagne-35470/salle-des-fetes-de-bain-de-bretagne/centre-de-vaccination-de-la-salle-des-fetes-de-bain-de-bretagne",
-      "plateforme": "Keldoc",
       "prochain_rdv": null
     },
     {
@@ -58,6 +51,13 @@
       "nom": "RENNES Le Libert\u00e9",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/rennes/centre-de-vaccination-covid-19-rennes-liberte?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "35",
+      "nom": "BAIN DE BGNE-La Croix Rouge",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/bain-de-bretagne-35470/salle-des-fetes-de-bain-de-bretagne/centre-de-vaccination-de-la-salle-des-fetes-de-bain-de-bretagne",
+      "plateforme": "Keldoc",
       "prochain_rdv": null
     },
     {

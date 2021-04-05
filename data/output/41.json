@@ -1,20 +1,20 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:51:34.186234+02:00",
+  "last_updated": "2021-04-05T19:55:22.655453+02:00",
   "centres_disponibles": [
     {
       "departement": "41",
       "nom": "Espace Jorge Semprun - Blois",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/blois/centre-de-vaccination-espace-jorge-semprun?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-14T09:40:00.000+02:00"
+      "prochain_rdv": "2021-04-12T09:20:00.000+02:00"
     },
     {
       "departement": "41",
       "nom": "Centre de vaccination Jeu de Paume - Blois",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/blois/centre-de-vaccination-espace-jorge-semprun?pid=practice-179783&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-14T10:40:00.000+02:00"
+      "prochain_rdv": "2021-04-12T09:20:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -125,16 +125,16 @@
     },
     {
       "departement": "41",
-      "nom": "Montrichard CV \u00e9ph\u00e9m\u00e8re",
-      "url": "",
-      "plateforme": "Autre",
+      "nom": "Centre de vaccination de Salbris",
+      "url": "https://partners.doctolib.fr/centre-de-sante/salbris/centre-de-vaccination-mairie-salbris-salle-polyvalente?pid=practice-172976&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "41",
-      "nom": "Centre de vaccination de Salbris",
-      "url": "https://partners.doctolib.fr/centre-de-sante/salbris/centre-de-vaccination-mairie-salbris-salle-polyvalente?pid=practice-172976&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "Montrichard CV \u00e9ph\u00e9m\u00e8re",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
@@ -202,16 +202,16 @@
     },
     {
       "departement": "41",
-      "nom": "Centre de vaccination - en attente (41)",
-      "url": "",
-      "plateforme": "Autre",
+      "nom": "Centre de vaccination - Dojo",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-georges-sur-cher/centre-de-vaccination-covid-19-de-saint-georges-sur-cher?pid=practice-166204&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "41",
-      "nom": "Centre de vaccination - Dojo",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-georges-sur-cher/centre-de-vaccination-covid-19-de-saint-georges-sur-cher?pid=practice-166204&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "Centre de vaccination - en attente (41)",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
@@ -230,6 +230,13 @@
     },
     {
       "departement": "41",
+      "nom": "Centre de vaccination - la Gare des Collines - Maison France Service",
+      "url": "https://partners.doctolib.fr/maison-de-sante/mondoubleau/centre-de-vaccination-covid-la-gare-des-collines?pid=practice-168224&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "41",
       "nom": "Centre hospitalier de Blois - Simone Veil - r\u00e9serv\u00e9 aux professionnels de sant\u00e9",
       "url": "https://partners.doctolib.fr/hopital-public/blois/ch-blois-centre-de-vaccination-covid-19-reserve-aux-professionnels-du-chb?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -240,13 +247,6 @@
       "nom": "Selles sur Cher centre \u00e9ph\u00e9m\u00e8re",
       "url": "",
       "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "41",
-      "nom": "Centre de vaccination - la Gare des Collines - Maison France Service",
-      "url": "https://partners.doctolib.fr/maison-de-sante/mondoubleau/centre-de-vaccination-covid-la-gare-des-collines?pid=practice-168224&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
       "prochain_rdv": null
     }
   ]

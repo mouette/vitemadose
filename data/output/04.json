@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:51:34.185876+02:00",
+  "last_updated": "2021-04-05T19:55:22.655015+02:00",
   "centres_disponibles": [
+    {
+      "departement": "04",
+      "nom": "Mairie - Salle Pierre Michel",
+      "url": "https://partners.doctolib.fr/centre-de-sante/forcalquier/centre-de-vaccination-ville-de-forcalquier?pid=practice-164823?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-12T17:20:00.000+02:00"
+    },
     {
       "departement": "04",
       "nom": "Palais des Congr\u00e8s",
@@ -15,13 +22,6 @@
       "url": "https://www.maiia.com/centre-de-vaccination/04100-manosque/centre-de-vaccination---manosque",
       "plateforme": "Maiia",
       "prochain_rdv": "2021-04-19T09:45:00.000000Z"
-    },
-    {
-      "departement": "04",
-      "nom": "Mairie - Salle Pierre Michel",
-      "url": "https://partners.doctolib.fr/centre-de-sante/forcalquier/centre-de-vaccination-ville-de-forcalquier?pid=practice-164823?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-22T17:10:00.000+02:00"
     }
   ],
   "centres_indisponibles": [

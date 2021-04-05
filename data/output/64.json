@@ -1,20 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:51:34.186459+02:00",
+  "last_updated": "2021-04-05T19:55:22.655693+02:00",
   "centres_disponibles": [
-    {
-      "departement": "64",
-      "nom": "Maison des associations de la ville de Bayonne",
-      "url": "https://partners.doctolib.fr/centre-de-sante/bayonne/centre-de-vaccination-covid-maison-des-associations-de-la-ville-de-bayonne?pid=practice-165183?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-08T09:35:00.000+02:00"
-    },
     {
       "departement": "64",
       "nom": "Centre de vaccination de Biarritz - Casino Municipal",
       "url": "https://partners.doctolib.fr/centre-de-sante/biarritz/centres-de-vaccination-de-la-ville-de-biarritz?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-09T13:40:00.000+02:00"
+      "prochain_rdv": "2021-04-09T14:00:00.000+02:00"
     },
     {
       "departement": "64",
@@ -25,17 +18,24 @@
     },
     {
       "departement": "64",
-      "nom": "Centre de Vaccination de la Ville de Lescar",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/lescar/centre-de-vaccination-covid-ville-de-lescar?pid=practice-164414?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Maison des associations de la ville de Bayonne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bayonne/centre-de-vaccination-covid-maison-des-associations-de-la-ville-de-bayonne?pid=practice-165183?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-20T09:35:00.000+02:00"
+      "prochain_rdv": "2021-04-13T08:20:00.000+02:00"
     },
     {
       "departement": "64",
       "nom": "Centre de Vaccination du CH d'ORTHEZ",
       "url": "https://partners.doctolib.fr/hopital-public/orthez/centre-de-vaccination-covid-ch-orthez?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-26T18:45:00.000+02:00"
+      "prochain_rdv": "2021-04-14T19:00:00.000+02:00"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de Vaccination de la Ville de Lescar",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/lescar/centre-de-vaccination-covid-ville-de-lescar?pid=practice-164414?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-20T12:10:00.000+02:00"
     },
     {
       "departement": "64",
@@ -43,13 +43,6 @@
       "url": "https://partners.doctolib.fr/centre-de-sante/morlaas/centre-de-vaccination-de-morlaas?pid=practice-180138&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": "2021-04-29T15:25:00.000+02:00"
-    },
-    {
-      "departement": "64",
-      "nom": "Centre m\u00e9dical Toki Eder",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/cambo-les-bains/centre-de-vaccination-covid-19-cambo-les-bains?pid=practice-167161&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-07T16:10:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -83,13 +76,6 @@
     },
     {
       "departement": "64",
-      "nom": "Centre de sant\u00e9 des Luys-Arzacq",
-      "url": "https://www.maiia.com/centre-de-vaccination/64410-arzacq-arraziguet/centre-de-vaccination-des-luys",
-      "plateforme": "Maiia",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "64",
       "nom": "Centre de vaccination d'Hasparren",
       "url": "",
       "plateforme": "Autre",
@@ -97,8 +83,22 @@
     },
     {
       "departement": "64",
+      "nom": "Centre de sant\u00e9 des Luys-Arzacq",
+      "url": "https://www.maiia.com/centre-de-vaccination/64410-arzacq-arraziguet/centre-de-vaccination-des-luys",
+      "plateforme": "Maiia",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "64",
       "nom": "Centre de vaccination intercommunal de Pontacq",
       "url": "https://partners.doctolib.fr/centre-de-sante/pontacq/centre-de-vaccination-de-pontacq?pid=practice-175786&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "64",
+      "nom": "Centre m\u00e9dical Toki Eder",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/cambo-les-bains/centre-de-vaccination-covid-19-cambo-les-bains?pid=practice-167161&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -125,14 +125,14 @@
     },
     {
       "departement": "64",
-      "nom": "Centre de vaccination de Garlin",
+      "nom": "MA - USMP de PAU / Maison d'Arr\u00eat de Pau",
       "url": "",
       "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
       "departement": "64",
-      "nom": "MA - USMP de PAU / Maison d'Arr\u00eat de Pau",
+      "nom": "Centre de vaccination de Garlin",
       "url": "",
       "plateforme": "Autre",
       "prochain_rdv": null

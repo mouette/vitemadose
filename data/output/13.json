@@ -1,34 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:51:34.185961+02:00",
+  "last_updated": "2021-04-05T19:55:22.655105+02:00",
   "centres_disponibles": [
-    {
-      "departement": "13",
-      "nom": "Centre de Vaccination COVID d\u2019Aubagne / Espace des Libert\u00e9s AUBAGNE ",
-      "url": "https://partners.doctolib.fr/hopital-public/aubagne/centre-de-vaccination-covid-ch-aubagne-espace-des-libertes?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-07T14:57:00.000+02:00"
-    },
     {
       "departement": "13",
       "nom": "Centre de vaccination de la CPTS Vignes et Calanques pour les communes de La Ciotat, Ceyreste, Cassis, Roquefort la B\u00e9doule, Carnoux en Provence.",
       "url": "https://partners.doctolib.fr/centre-de-sante/la-ciotat/centre-de-vaccination-covid-paul-eluard?pid=practice-165767&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-08T09:15:00.000+02:00"
-    },
-    {
-      "departement": "13",
-      "nom": "Centre de vaccination Gardanne",
-      "url": "https://partners.doctolib.fr/centre-de-sante/gardanne/centre-de-vaccination-gardanne-cpts-provence-sante?pid=practice-165090?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-09T17:30:00.000+02:00"
-    },
-    {
-      "departement": "13",
-      "nom": "CPTS Aix Ste Victoire / Gymnase du Val de l'Arc",
-      "url": "https://partners.doctolib.fr/centre-de-sante/aix-en-provence/centre-de-vaccination-covid19-de-la-ville-d-aix-en-provence?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-11T18:50:00.000+02:00"
+      "prochain_rdv": "2021-04-08T09:00:00.000+02:00"
     },
     {
       "departement": "13",
@@ -43,6 +22,13 @@
       "url": "https://www.maiia.com/centre-de-vaccination/13015-marseille/centre-de-vaccination---mairie-15-et-16-ville-de-marseille",
       "plateforme": "Maiia",
       "prochain_rdv": "2021-04-15T15:10:00.000000Z"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination Gardanne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/gardanne/centre-de-vaccination-gardanne-cpts-provence-sante?pid=practice-165090?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-15T17:00:00.000+02:00"
     },
     {
       "departement": "13",
@@ -104,13 +90,6 @@
     },
     {
       "departement": "13",
-      "nom": "ALPILLIUM ST REMY DE PROVENCE/CPTS PAYS D'ARLES",
-      "url": "https://www.maiia.com/centre-de-vaccination/13210-saint-remy-de-provence/centre-de-vaccination-alpilium-saint-remy-de-provence---cpts-pays-d-arles",
-      "plateforme": "Maiia",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "13",
       "nom": "CP - LUYNES / Centre P\u00e9nitentiaire d'Aix-Luynes",
       "url": "",
       "plateforme": "Autre",
@@ -149,6 +128,13 @@
       "nom": "CD - USMP CD TARASCON / Maison Centrale d'Arles",
       "url": "",
       "plateforme": "Autre",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "13",
+      "nom": "ALPILLIUM ST REMY DE PROVENCE/CPTS PAYS D'ARLES",
+      "url": "https://www.maiia.com/centre-de-vaccination/13210-saint-remy-de-provence/centre-de-vaccination-alpilium-saint-remy-de-provence---cpts-pays-d-arles",
+      "plateforme": "Maiia",
       "prochain_rdv": null
     },
     {
@@ -272,8 +258,22 @@
     },
     {
       "departement": "13",
+      "nom": "CPTS Aix Ste Victoire / Gymnase du Val de l'Arc",
+      "url": "https://partners.doctolib.fr/centre-de-sante/aix-en-provence/centre-de-vaccination-covid19-de-la-ville-d-aix-en-provence?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "13",
       "nom": "APHM H\u00f4pital Sainte Marguerite",
       "url": "https://partners.doctolib.fr/hopital-public/marseille/vaccinationcovidaphm?pid=practice-162148&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de Vaccination COVID d\u2019Aubagne / Espace des Libert\u00e9s AUBAGNE ",
+      "url": "https://partners.doctolib.fr/hopital-public/aubagne/centre-de-vaccination-covid-ch-aubagne-espace-des-libertes?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -314,13 +314,6 @@
     },
     {
       "departement": "13",
-      "nom": "Clinique g\u00e9n\u00e9rale de Marignane",
-      "url": "https://partners.doctolib.fr/clinique-privee/marignane/centre-de-vaccination-covid-19-clinique-generale-de-marignane?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "13",
       "nom": "Centre de vaccination de l'H\u00f4pital d'Instruction des Arm\u00e9es Laveran",
       "url": "Doctolib",
       "plateforme": "Autre",
@@ -328,9 +321,9 @@
     },
     {
       "departement": "13",
-      "nom": "Centre de vaccination de Ch\u00e2teaurenard",
-      "url": "https://www.maiia.com/centre-de-vaccination/13160-chateaurenard/centre-de-vaccination-covid---chateaurenard-de-provence",
-      "plateforme": "Maiia",
+      "nom": "Clinique g\u00e9n\u00e9rale de Marignane",
+      "url": "https://partners.doctolib.fr/clinique-privee/marignane/centre-de-vaccination-covid-19-clinique-generale-de-marignane?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
@@ -342,15 +335,22 @@
     },
     {
       "departement": "13",
-      "nom": "H\u00f4pital Conception (R\u00e9serv\u00e9 aux professionnels de sant\u00e9 lib\u00e9raux)",
-      "url": "https://partners.doctolib.fr/hopital-public/marseille/vaccination-covid-19-assistance-publique-hopitaux-de-marseille/?pid=practice-78743&enable_cookies_consent=1",
-      "plateforme": null,
+      "nom": "Centre de vaccination de Ch\u00e2teaurenard",
+      "url": "https://www.maiia.com/centre-de-vaccination/13160-chateaurenard/centre-de-vaccination-covid---chateaurenard-de-provence",
+      "plateforme": "Maiia",
       "prochain_rdv": null
     },
     {
       "departement": "13",
       "nom": "H\u00f4pital Nord (R\u00e9serv\u00e9 aux professionnels de sant\u00e9 lib\u00e9raux)",
       "url": "https://partners.doctolib.fr/hopital-public/marseille/vaccination-covid-19-assistance-publique-hopitaux-de-marseille/?pid=practice-79902&enable_cookies_consent=1",
+      "plateforme": null,
+      "prochain_rdv": null
+    },
+    {
+      "departement": "13",
+      "nom": "H\u00f4pital Conception (R\u00e9serv\u00e9 aux professionnels de sant\u00e9 lib\u00e9raux)",
+      "url": "https://partners.doctolib.fr/hopital-public/marseille/vaccination-covid-19-assistance-publique-hopitaux-de-marseille/?pid=practice-78743&enable_cookies_consent=1",
       "plateforme": null,
       "prochain_rdv": null
     }
