@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:44:00.781357+02:00",
+  "last_updated": "2021-04-05T19:47:47.318728+02:00",
   "centres_disponibles": [
     {
       "departement": "05",
       "nom": "centre de vaccination du Prorel BRIANCON",
       "url": "https://partners.doctolib.fr/hopital-public/briancon/ch-briancon-centre-de-vaccination-covid-19?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-05T11:00:00.000+02:00"
+      "prochain_rdv": "2021-05-05T10:50:00.000+02:00"
     }
   ],
   "centres_indisponibles": [

@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:44:00.781531+02:00",
+  "last_updated": "2021-04-05T19:47:47.319126+02:00",
   "centres_disponibles": [
+    {
+      "departement": "24",
+      "nom": "Filature de l'Isle",
+      "url": "https://partners.doctolib.fr/hopital-public/perigueux/vaccination-covid?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-07T15:36:00.000+02:00"
+    },
     {
       "departement": "24",
       "nom": "Centre hospitalier de Bergerac",
@@ -15,6 +22,13 @@
       "url": "https://www.maiia.com/centre-de-vaccination/24550-villefranche-du-perigord/centre-de-vaccination-covid---villefranche-du-perigord",
       "plateforme": "Maiia",
       "prochain_rdv": "2021-04-21T10:25:00.000000Z"
+    },
+    {
+      "departement": "24",
+      "nom": "Centre de Sant\u00e9 Fondation John Bost",
+      "url": " https://www.doctolib.fr/centre-de-sante/la-force/centre-de-vaccination-covid-19-fondation-john-bost",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-05-04T17:30:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -139,13 +153,6 @@
     },
     {
       "departement": "24",
-      "nom": "Centre de Sant\u00e9 Fondation John Bost",
-      "url": " https://www.doctolib.fr/centre-de-sante/la-force/centre-de-vaccination-covid-19-fondation-john-bost",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "24",
       "nom": "H\u00f4pital Priv\u00e9 Francheville",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/perigueux/centre-de-vaccination-covid-19-hopital-prive-francheville-perigueux?pid=practice-171077&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -156,13 +163,6 @@
       "nom": "Maison de sant\u00e9 pluridisciplinaire du Pays de Lanouaille",
       "url": "https://www.maiia.com/centre-de-vaccination/24270-lanouaille/centre-de-vaccination-covid---lanouaille-",
       "plateforme": "Maiia",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "24",
-      "nom": "Filature de l'Isle",
-      "url": "https://partners.doctolib.fr/hopital-public/perigueux/vaccination-covid?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {

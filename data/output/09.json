@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:44:00.781410+02:00",
+  "last_updated": "2021-04-05T19:47:47.318768+02:00",
   "centres_disponibles": [
     {
       "departement": "09",
       "nom": "CV LE FOSSAT (Moderna Pfizer)",
       "url": "https://partners.doctolib.fr/centre-de-sante/fossat/centre-de-vaccination-covid-du-fossat?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-06T16:50:00.000+02:00"
+      "prochain_rdv": "2021-04-06T19:10:00.000+02:00"
     },
     {
       "departement": "09",
@@ -27,15 +27,15 @@
     },
     {
       "departement": "09",
-      "nom": "CHIVA (Pfizer / Astra Zeneca)",
-      "url": "https://partners.doctolib.fr/hopital-public/saint-jean-de-verges/centre-de-vaccination-covid-centre-hospitalier-intercommunal-des-vallees-de-l-ariege-chiva?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre Hospitalier Ari\u00e8ge Couserans (Pfizer / Moderna / AstraZeneca)",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-lizier/centre-de-vaccination-covid-centre-hospitalier-ariege-couserans-chac?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "09",
-      "nom": "Centre Hospitalier Ari\u00e8ge Couserans (Pfizer / Moderna / AstraZeneca)",
-      "url": "https://partners.doctolib.fr/hopital-public/saint-lizier/centre-de-vaccination-covid-centre-hospitalier-ariege-couserans-chac?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "CHIVA (Pfizer / Astra Zeneca)",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-jean-de-verges/centre-de-vaccination-covid-centre-hospitalier-intercommunal-des-vallees-de-l-ariege-chiva?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

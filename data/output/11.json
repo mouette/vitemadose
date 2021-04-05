@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:44:00.781427+02:00",
-  "centres_disponibles": [],
+  "last_updated": "2021-04-05T19:47:47.318787+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "11",
+      "nom": "CPTS DU CABARDES",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/conques-sur-orbiel/centre-de-vaccination-covid-19-cpts-du-carbardes?pid=practice-173587&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-06T09:12:00.000+02:00"
+    }
+  ],
   "centres_indisponibles": [
     {
       "departement": "11",
@@ -35,13 +43,6 @@
       "departement": "11",
       "nom": "CH Carcassonne",
       "url": "https://partners.doctolib.fr/hopital-public/carcassonne/ch-carcassonne-centre-de-vaccination-covid-19?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "11",
-      "nom": "CPTS DU CABARDES",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/conques-sur-orbiel/centre-de-vaccination-covid-19-cpts-du-carbardes?pid=practice-173587&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

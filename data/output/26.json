@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:44:00.781547+02:00",
+  "last_updated": "2021-04-05T19:47:47.319150+02:00",
   "centres_disponibles": [
     {
       "departement": "26",
       "nom": "Centre de vaccination - Salle de Cl\u00e9vos",
       "url": "https://partners.doctolib.fr/centre-de-sante/etoile-sur-rhone/centre-de-vaccination-covid-19-cpts-sud-valence?pid=practice-173051&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-09T16:20:00.000+02:00"
+      "prochain_rdv": "2021-04-09T18:40:00.000+02:00"
     },
     {
       "departement": "26",
@@ -48,6 +48,13 @@
     },
     {
       "departement": "26",
+      "nom": "Equipe mobile de vaccination de Crest",
+      "url": "https://partners.doctolib.fr/centre-de-sante/crest/centre-de-vaccination-de-crest?pid=practice-176012&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "26",
       "nom": "Centre de vaccination du centre hospitalier de Valence",
       "url": "https://partners.doctolib.fr/hopital-public/valence/centre-de-vaccination-du-centre-hospitalier-de-valence?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -55,8 +62,8 @@
     },
     {
       "departement": "26",
-      "nom": "Equipe mobile de vaccination de Crest",
-      "url": "https://partners.doctolib.fr/centre-de-sante/crest/centre-de-vaccination-de-crest?pid=practice-176012&enable_cookies_consent=1",
+      "nom": "Centre de vaccination de Saint Vallier",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-vallier/centre-de-vaccination-de-st-vallier?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
@@ -71,13 +78,6 @@
       "departement": "26",
       "nom": "Centre de vaccination de Romans sur Is\u00e8re - Salle des cordeliers",
       "url": "https://partners.doctolib.fr/centre-de-sante/romans-sur-isere/centre-de-vaccinations-de-romans-sur-isere-salle-des-cordeliers?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "26",
-      "nom": "Centre de vaccination de Saint Vallier",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-vallier/centre-de-vaccination-de-st-vallier?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     }

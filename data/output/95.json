@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:44:00.782182+02:00",
+  "last_updated": "2021-04-05T19:47:47.320131+02:00",
   "centres_disponibles": [
     {
       "departement": "95",
@@ -14,28 +14,28 @@
       "nom": "MAISON DE QUARTIER VALERY WATTEAU",
       "url": "https://partners.doctolib.fr/centre-de-sante/sarcelles/centre-de-vaccination-de-sarcelles?pid=practice-162701&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-07T14:50:00.000+02:00"
+      "prochain_rdv": "2021-04-07T14:55:00.000+02:00"
     },
     {
       "departement": "95",
       "nom": "Centre de vaccination - Centre Hospitalier Ren\u00e9 Dubos",
       "url": "https://partners.doctolib.fr/hopital-public/pontoise/ght-novo-ghcpo-chrd-vaccination-covid-19?pid=practice-162508&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-08T15:20:00.000+02:00"
+      "prochain_rdv": "2021-04-08T14:40:00.000+02:00"
     },
     {
       "departement": "95",
       "nom": "Centre intercommunal de vaccination - Viarmes",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/viarmes/centre-de-vaccination-covid-19-centre-intercommunal-de-viarmes?pid=practice-178712&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-09T08:55:00.000+02:00"
+      "prochain_rdv": "2021-04-09T09:15:00.000+02:00"
     },
     {
       "departement": "95",
-      "nom": "Centre de vaccination Franconville",
-      "url": "https://partners.doctolib.fr/centre-de-sante/franconville/centre-de-vaccination-covid-19-de-franconville?pid=practice-178161&enable_cookies_consent=1",
+      "nom": "Centre de vaccination de Sannois",
+      "url": "https://www.doctolib.fr/centre-de-sante/sannois/centre-de-vaccination-covid-19-commune-de-sannois",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-09T15:40:00.000+02:00"
+      "prochain_rdv": "2021-04-09T14:30:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -76,13 +76,6 @@
     },
     {
       "departement": "95",
-      "nom": "Centre de vaccination territorial Centre Val d'Oise",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/montmorency-95160/vaccination-plaine-vallee-montmorency-salle-des-fetes?category=-1&cabinet=16607&specialty=496",
-      "plateforme": "Keldoc",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "95",
       "nom": "Centre de vaccination de Cergy",
       "url": "https://partners.doctolib.fr/centre-de-sante/cergy/centre-de-vaccination-covid-19-ville-de-cergy?pid=practice-176567&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -111,9 +104,9 @@
     },
     {
       "departement": "95",
-      "nom": "Centre de vaccination de Sannois",
-      "url": "https://www.doctolib.fr/centre-de-sante/sannois/centre-de-vaccination-covid-19-commune-de-sannois",
-      "plateforme": "Doctolib",
+      "nom": "Centre de vaccination territorial Centre Val d'Oise",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/montmorency-95160/vaccination-plaine-vallee-montmorency-salle-des-fetes?category=-1&cabinet=16607&specialty=496",
+      "plateforme": "Keldoc",
       "prochain_rdv": null
     },
     {
@@ -146,16 +139,16 @@
     },
     {
       "departement": "95",
-      "nom": "Centre de vaccination territorial du Haut Val d'Oise",
-      "url": "https://partners.doctolib.fr/espic-etablissement-de-sante-prive-d-interet-collectif/l'isle-adam/centre-de-vaccination-covid19-de-l-isle-adam-hopital-chantepie-mancier?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "EMV CV territorial du Haut Val d'Oise",
+      "url": "",
+      "plateforme": "Autre",
       "prochain_rdv": null
     },
     {
       "departement": "95",
-      "nom": "EMV CV territorial du Haut Val d'Oise",
-      "url": "",
-      "plateforme": "Autre",
+      "nom": "Centre de vaccination territorial du Haut Val d'Oise",
+      "url": "https://partners.doctolib.fr/espic-etablissement-de-sante-prive-d-interet-collectif/l'isle-adam/centre-de-vaccination-covid19-de-l-isle-adam-hopital-chantepie-mancier?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
@@ -195,13 +188,6 @@
     },
     {
       "departement": "95",
-      "nom": "Centre de vaccination Pean Auvers-sur-Oise",
-      "url": "https://partners.doctolib.fr/centre-de-sante/auvers-sur-oise/centre-de-vaccination-d-auvers-sur-oise?pid=practice-177442&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "95",
       "nom": "Centre de vaccination territorial Centre Val d'Oise",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/enghien-les-bains-95880/vaccination-plaine-vallee-enghien-les-bains?category=-1&cabinet=16606&specialty=496",
       "plateforme": "Keldoc",
@@ -209,8 +195,22 @@
     },
     {
       "departement": "95",
+      "nom": "Centre de vaccination Pean Auvers-sur-Oise",
+      "url": "https://partners.doctolib.fr/centre-de-sante/auvers-sur-oise/centre-de-vaccination-d-auvers-sur-oise?pid=practice-177442&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "95",
       "nom": "Centre de vaccination municipal d'Argenteuil",
       "url": "https://partners.doctolib.fr/centre-de-sante/argenteuil/centre-de-vaccination-covid-ville-d-argenteuil?pid=practice-177958&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": null
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de vaccination Franconville",
+      "url": "https://partners.doctolib.fr/centre-de-sante/franconville/centre-de-vaccination-covid-19-de-franconville?pid=practice-178161&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

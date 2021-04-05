@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:44:00.781563+02:00",
+  "last_updated": "2021-04-05T19:47:47.319170+02:00",
   "centres_disponibles": [
+    {
+      "departement": "28",
+      "nom": "Centre de vaccination - r\u00e9serv\u00e9 professionnels de sant\u00e9 et assimil\u00e9s\" - CH Chartres",
+      "url": "https://partners.doctolib.fr/hopital-public/le-coudray/centre-hospitalier-chartres-le-coudray?pid=practice-162668&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-14T12:50:00.000+02:00"
+    },
     {
       "departement": "28",
       "nom": "Centre de vaccination \"grand public\" CHARTREXPO \u2013 Chartres",
@@ -16,13 +23,6 @@
       "nom": "Centre de vaccination du Bonnevalais",
       "url": "",
       "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "28",
-      "nom": "Centre de vaccination - r\u00e9serv\u00e9 professionnels de sant\u00e9 et assimil\u00e9s\" - CH Chartres",
-      "url": "https://partners.doctolib.fr/hopital-public/le-coudray/centre-hospitalier-chartres-le-coudray?pid=practice-162668&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
@@ -153,15 +153,15 @@
     },
     {
       "departement": "28",
-      "nom": "Centre de vaccination \"grand public\" - La Loupe",
-      "url": "https://partners.doctolib.fr/centre-de-sante/la-loupe/centre-de-vaccination-covid-centre-de-la-loupe?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination \"grand public\" - Salle L\u00e9o Lagrange",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chateaudun/centre-de-vaccination-du-sud-28?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {
       "departement": "28",
-      "nom": "Centre de vaccination \"grand public\" - Salle L\u00e9o Lagrange",
-      "url": "https://partners.doctolib.fr/centre-de-sante/chateaudun/centre-de-vaccination-du-sud-28?speciality_id=5494&enable_cookies_consent=1",
+      "nom": "Centre de vaccination \"grand public\" - La Loupe",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-loupe/centre-de-vaccination-covid-centre-de-la-loupe?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

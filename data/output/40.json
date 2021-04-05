@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:44:00.781676+02:00",
+  "last_updated": "2021-04-05T19:47:47.319305+02:00",
   "centres_disponibles": [
     {
       "departement": "40",
@@ -14,7 +14,7 @@
       "nom": "Centre de vaccination d'Aire sur l'Adour",
       "url": "https://www.maiia.com/centre-de-vaccination/40800-aire-sur-l-adour/centre-de-vaccination---maison-de-sante-de-l-adour?centerId=5ffec752a400683faf1c220c",
       "plateforme": "Maiia",
-      "prochain_rdv": "2021-04-08T09:15:00.000000Z"
+      "prochain_rdv": "2021-04-08T12:15:00.000000Z"
     }
   ],
   "centres_indisponibles": [

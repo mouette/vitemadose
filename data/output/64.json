@@ -1,20 +1,20 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:44:00.781885+02:00",
+  "last_updated": "2021-04-05T19:47:47.319640+02:00",
   "centres_disponibles": [
     {
       "departement": "64",
       "nom": "Centre de vaccination de Biarritz - Casino Municipal",
       "url": "https://partners.doctolib.fr/centre-de-sante/biarritz/centres-de-vaccination-de-la-ville-de-biarritz?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-10T12:20:00.000+02:00"
+      "prochain_rdv": "2021-04-10T13:00:00.000+02:00"
     },
     {
       "departement": "64",
       "nom": "Centre de Vaccination de la Ville de Pau",
       "url": "https://partners.doctolib.fr/centre-de-sante/pau/centre-de-vaccination-covid-de-pau?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-12T17:10:00.000+02:00"
+      "prochain_rdv": "2021-04-12T16:55:00.000+02:00"
     },
     {
       "departement": "64",
@@ -28,7 +28,7 @@
       "nom": "Centre de Vaccination de la Ville de Lescar",
       "url": "https://partners.doctolib.fr/centre-depistage-covid/lescar/centre-de-vaccination-covid-ville-de-lescar?pid=practice-164414?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-20T09:20:00.000+02:00"
+      "prochain_rdv": "2021-04-20T11:50:00.000+02:00"
     },
     {
       "departement": "64",
@@ -42,7 +42,21 @@
       "nom": "Centre de vaccination de Morla\u00e0s",
       "url": "https://partners.doctolib.fr/centre-de-sante/morlaas/centre-de-vaccination-de-morlaas?pid=practice-180138&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-29T15:40:00.000+02:00"
+      "prochain_rdv": "2021-04-29T15:25:00.000+02:00"
+    },
+    {
+      "departement": "64",
+      "nom": "CH OLORON",
+      "url": "https://partners.doctolib.fr/hopital-public/oloron-sainte-marie/chosm-reserve-aux-professionnels-de-sante?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-05-01T13:30:00.000+02:00"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de Vaccination d'Arette",
+      "url": "https://www.doctolib.fr/hopital-public/oloron-sainte-marie/chosm-reserve-aux-professionnels-de-sante",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-05-01T13:30:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
@@ -69,9 +83,9 @@
     },
     {
       "departement": "64",
-      "nom": "CH OLORON",
-      "url": "https://partners.doctolib.fr/hopital-public/oloron-sainte-marie/chosm-reserve-aux-professionnels-de-sante?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
+      "nom": "Centre de sant\u00e9 des Luys-Arzacq",
+      "url": "https://www.maiia.com/centre-de-vaccination/64410-arzacq-arraziguet/centre-de-vaccination-des-luys",
+      "plateforme": "Maiia",
       "prochain_rdv": null
     },
     {
@@ -79,13 +93,6 @@
       "nom": "Centre de vaccination d'Hasparren",
       "url": "",
       "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "64",
-      "nom": "Centre de sant\u00e9 des Luys-Arzacq",
-      "url": "https://www.maiia.com/centre-de-vaccination/64410-arzacq-arraziguet/centre-de-vaccination-des-luys",
-      "plateforme": "Maiia",
       "prochain_rdv": null
     },
     {
@@ -149,13 +156,6 @@
       "nom": "Centre de Saint-Pierre d'Irube",
       "url": "",
       "plateforme": "Autre",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "64",
-      "nom": "Centre de Vaccination d'Arette",
-      "url": "https://www.doctolib.fr/hopital-public/oloron-sainte-marie/chosm-reserve-aux-professionnels-de-sante",
-      "plateforme": "Doctolib",
       "prochain_rdv": null
     },
     {

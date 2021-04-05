@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:44:00.781652+02:00",
-  "centres_disponibles": [],
+  "last_updated": "2021-04-05T19:47:47.319276+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "37",
+      "nom": "Salle Polyvalente - Amboise",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/amboise/vaccination-mairie-amboise?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-06T14:30:00.000+02:00"
+    },
+    {
+      "departement": "37",
+      "nom": "Maison des associations - Loches",
+      "url": "https://partners.doctolib.fr/centre-de-sante/loches/centre-de-vaccination-covid-cpts-sud-lochois?pid=practice-165185?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-14T10:24:00.000+02:00"
+    }
+  ],
   "centres_indisponibles": [
     {
       "departement": "37",
@@ -12,22 +27,8 @@
     },
     {
       "departement": "37",
-      "nom": "Maison des associations - Loches",
-      "url": "https://partners.doctolib.fr/centre-de-sante/loches/centre-de-vaccination-covid-cpts-sud-lochois?pid=practice-165185?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "37",
       "nom": "Centre de vaccination - Gymnase Onze Arpents de Saint-Avertin",
       "url": "https://www.doctolib.fr/centre-de-sante/saint-avertin/centre-de-vaccination-covid-19-saint-avertin?highlight%5Bspeciality_ids%5D%5B%5D=5494",
-      "plateforme": "Doctolib",
-      "prochain_rdv": null
-    },
-    {
-      "departement": "37",
-      "nom": "Salle Polyvalente - Amboise",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/amboise/vaccination-mairie-amboise?speciality_id=5494&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": null
     },

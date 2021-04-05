@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:44:00.781451+02:00",
+  "last_updated": "2021-04-05T19:47:47.318826+02:00",
   "centres_disponibles": [
     {
       "departement": "14",
@@ -11,20 +11,6 @@
     },
     {
       "departement": "14",
-      "nom": "Centre de Vaccination Caen-Centre (ancienne caserne Canada)",
-      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/caen-14000/caen-lemiere-ancienne-ecole-lemiere/centre-de-vaccination-de-caen-lemiere-ancienne-ecole-lemiere",
-      "plateforme": "Keldoc",
-      "prochain_rdv": "2021-04-09T16:55:00.000000+0200"
-    },
-    {
-      "departement": "14",
-      "nom": "Clinique Vire",
-      "url": "https://partners.doctolib.fr/centre-de-sante/normandie/centre-de-vaccination-clinique-vire?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-13T17:20:00.000+02:00"
-    },
-    {
-      "departement": "14",
       "nom": "Centre de vaccination Cond\u00e9-en-Normandie",
       "url": "https://partners.doctolib.fr/centre-de-sante/conde-en-normandie/centre-de-vaccination-covid-19-ville-de-conde?pid=practice-178178&enable_cookies_consent=1",
       "plateforme": "Doctolib",
@@ -32,10 +18,24 @@
     },
     {
       "departement": "14",
+      "nom": "Clinique Vire",
+      "url": "https://partners.doctolib.fr/centre-de-sante/normandie/centre-de-vaccination-clinique-vire?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-14T09:25:00.000+02:00"
+    },
+    {
+      "departement": "14",
+      "nom": "Centre de Vaccination Caen-Centre (ancienne caserne Canada)",
+      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/caen-14000/caen-lemiere-ancienne-ecole-lemiere/centre-de-vaccination-de-caen-lemiere-ancienne-ecole-lemiere",
+      "plateforme": "Keldoc",
+      "prochain_rdv": "2021-04-14T15:20:00.000000+0200"
+    },
+    {
+      "departement": "14",
       "nom": "Centre de vaccination M\u00e9zidon Vall\u00e9e d'Auge",
       "url": "https://partners.doctolib.fr/centre-de-sante/mezidon-vallee-d-auge/centre-de-vaccination-covid-19-mezidon-vallee-d-auge?pid=practice-179725&enable_cookies_consent=1",
       "plateforme": "Doctolib",
-      "prochain_rdv": "2021-04-27T15:50:00.000+02:00"
+      "prochain_rdv": "2021-04-27T15:55:00.000+02:00"
     }
   ],
   "centres_indisponibles": [

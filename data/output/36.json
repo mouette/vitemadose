@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-05T19:44:00.781644+02:00",
+  "last_updated": "2021-04-05T19:47:47.319266+02:00",
   "centres_disponibles": [
     {
       "departement": "36",
@@ -11,17 +11,17 @@
     },
     {
       "departement": "36",
+      "nom": "Centre de vaccination public - Salle des f\u00eates Jean Moulin ",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/villedieu-sur-indre/centre-de-vaccination-de-villedieu-sur-indre?speciality_id=5494&enable_cookies_consent=1",
+      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-26T17:50:00.000+02:00"
+    },
+    {
+      "departement": "36",
       "nom": "Salle des f\u00eates La Ch\u00e2tre / CPTS Boischaut Sud",
       "url": "https://partners.doctolib.fr/centre-depistage-covid/boischaut-sud/centre-de-vaccination-covid-du-boischaut-sud?pid=practice-164853&enable_cookies_consent=1",
       "plateforme": "Doctolib",
       "prochain_rdv": "2021-04-30T15:20:00.000+02:00"
-    },
-    {
-      "departement": "36",
-      "nom": "Centre de vaccination public - Salle des f\u00eates Jean Moulin ",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/villedieu-sur-indre/centre-de-vaccination-de-villedieu-sur-indre?speciality_id=5494&enable_cookies_consent=1",
-      "plateforme": "Doctolib",
-      "prochain_rdv": "2021-05-10T09:30:00.000+02:00"
     }
   ],
   "centres_indisponibles": [
